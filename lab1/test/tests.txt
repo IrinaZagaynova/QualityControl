@@ -1,0 +1,28 @@
+1 2 3
+Not a triangle
+-2 3 4
+Not a triangle
+-2 -3 -4
+Not a triangle
+1 2 3 4
+Unknown error
+1 2
+Unknown error
+f f f
+Unknown error
+1 2 a
+Unknown error
+2 3 4
+Ordinary
+474.3393 494.00606 604.382
+Ordinary
+5 5 6
+Isosceles
+6 5 5
+Isosceles
+5 6 5
+Isosceles
+10 10 10
+Equilateral
+555555555555.55555555555 555555555555.55555555555 555555555555.55555555555
+Equilateral
