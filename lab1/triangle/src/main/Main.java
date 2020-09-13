@@ -10,7 +10,6 @@ public class Main {
         if (args.length != 3) {
             return false;
         }
-
         try {
             triangle.a = Double.parseDouble(args[0]);
             triangle.b = Double.parseDouble(args[1]);
@@ -19,27 +18,24 @@ public class Main {
         catch (final NumberFormatException e) {
             return false;
         }
-
         return true;
     }
 
-    static void printTriangleType(TriangleSides triangle) {
+    static String getTriangleType(TriangleSides triangle) {
         if (triangle.a <= 0 || triangle.b <= 0 || triangle.c <= 0) {
-            System.out.println("Not a triangle");
-            return;
+            return "Not a triangle";
         }
-
         if (triangle.a == triangle.b && triangle.b == triangle.c) {
-            System.out.println("Equilateral");
+            return "Equilateral";
         }
         else if (triangle.a == triangle.b || triangle.b == triangle.c || triangle.c == triangle.a) {
-            System.out.println("Isosceles");
+            return "Isosceles";
         }
         else if (triangle.a + triangle.b > triangle.c && triangle.a + triangle.c > triangle.b && triangle.b + triangle.c > triangle.a) {
-            System.out.println("Ordinary");
+            return "Ordinary";
         }
         else {
-            System.out.println("Not a triangle");
+            return "Not a triangle";
         }
     }
 
@@ -49,6 +45,6 @@ public class Main {
             System.out.println("Unknown error");
             System.exit(1);
         }
-        printTriangleType(triangle);
+        System.out.println(getTriangleType(triangle));
     }
 }

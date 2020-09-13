@@ -15,7 +15,7 @@ public class Main {
         String line = br.readLine();
 
         if (line.equals(expected)) {
-            return "sucсess\n";
+            return "success\n";
         }
         else {
             return "error\n";
@@ -23,13 +23,11 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        File input = new File("tests.txt");
+        File output = new File("result.txt");
         try {
-            File input = new File("tests.txt");
             FileReader fr = new FileReader(input);
-
-            File output = new File("result.txt");
             FileWriter fw = new FileWriter(output);
-
             BufferedReader br = new BufferedReader(fr);
             String line, expected;
             while ((line = br.readLine()) != null && (expected = br.readLine()) != null) {
