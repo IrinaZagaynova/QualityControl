@@ -25,7 +25,7 @@ public class Main {
         if (triangle.a <= 0 || triangle.b <= 0 || triangle.c <= 0) {
             return "Not a triangle";
         }
-        if (triangle.a == triangle.b && triangle.b == triangle.c) {
+        if (triangle.a == triangle.b && triangle.b == triangle.c && triangle.c == triangle.a) {
             return "Equilateral";
         }
         else if (triangle.a == triangle.b || triangle.b == triangle.c || triangle.c == triangle.a) {
