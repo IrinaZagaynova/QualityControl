@@ -2,18 +2,18 @@ package main;
 
 public class Main {
 
-    static class TriangleSides {
+    static class Sides {
         double a, b, c;
     }
 
-    static boolean parseArgs(String[] args, TriangleSides triangle) {
+    static boolean parseArgs(String[] args, Sides sides) {
         if (args.length != 3) {
             return false;
         }
         try {
-            triangle.a = Double.parseDouble(args[0]);
-            triangle.b = Double.parseDouble(args[1]);
-            triangle.c = Double.parseDouble(args[2]);
+            sides.a = Double.parseDouble(args[0]);
+            sides.b = Double.parseDouble(args[1]);
+            sides.c = Double.parseDouble(args[2]);
         }
         catch (final NumberFormatException e) {
             return false;
@@ -21,7 +21,7 @@ public class Main {
         return true;
     }
 
-    static String getTriangleType(TriangleSides triangle) {
+    static String getTriangleType(Sides triangle) {
         if (triangle.a <= 0 || triangle.b <= 0 || triangle.c <= 0) {
             return "Not a triangle";
         }
@@ -40,11 +40,12 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        TriangleSides triangle = new TriangleSides();
-        if (!parseArgs(args, triangle)) {
+        Sides sides = new Sides();
+        if (!parseArgs(args, sides)) {
             System.out.println("Unknown error");
-            System.exit(1);
         }
-        System.out.println(getTriangleType(triangle));
+        else {
+            System.out.println(getTriangleType(sides));
+        }
     }
 }

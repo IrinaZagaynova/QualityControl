@@ -2,8 +2,6 @@
 Not a triangle
 -2 3 4
 Not a triangle
--2 -3 -4
-Not a triangle
 1 2 3 4
 Unknown error
 1 2
