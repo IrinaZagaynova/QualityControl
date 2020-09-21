@@ -1,5 +1,9 @@
 package main;
 
+import java.math.BigDecimal;
+
+import static java.lang.Double.isInfinite;
+
 public class Main {
 
     static class Sides {
@@ -18,6 +22,15 @@ public class Main {
         catch (final NumberFormatException e) {
             return false;
         }
+
+        System.out.println(sides.a);
+        System.out.println(sides.b);
+        System.out.println(sides.c);
+
+        if ((isInfinite(sides.a)) || (isInfinite(sides.b)) || (isInfinite(sides.c))) {
+            return false;
+        }
+
         return true;
     }
 
