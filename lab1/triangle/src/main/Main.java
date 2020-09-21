@@ -23,10 +23,6 @@ public class Main {
             return false;
         }
 
-        System.out.println(sides.a);
-        System.out.println(sides.b);
-        System.out.println(sides.c);
-
         if ((isInfinite(sides.a)) || (isInfinite(sides.b)) || (isInfinite(sides.c))) {
             return false;
         }
