@@ -173,7 +173,7 @@ class TVSetTest {
             }
 
             @Test
-            @DisplayName("should get 0 channel by name if TV is turned off")
+            @DisplayName("should get 0 channel by name if tv is turned off")
             public void shouldGetNullChanel() {
                 tvSet.turnOff();
                 assertEquals(tvSet.getChannelByName("name"), 0);
@@ -186,7 +186,7 @@ class TVSetTest {
             }
 
             @Test
-            @DisplayName("if TV is turned off, should return an empty string")
+            @DisplayName("if tv is turned off, should return an empty string")
             public void shouldNotGetChannelName() {
                 tvSet.turnOff();
                 assertEquals(tvSet.getChannelName(10), "");
@@ -230,7 +230,7 @@ class TVSetTest {
             }
 
             @Test
-            @DisplayName("restores the last selected channel after turning on the TV again")
+            @DisplayName("restores the last selected channel after turning on the tv again")
             public void shouldRestoreLastSelectedChannel() {
                 assertEquals(tvSet.getChannel(), 33);
             }
