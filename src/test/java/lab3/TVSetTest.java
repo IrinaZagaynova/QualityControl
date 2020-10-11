@@ -194,6 +194,19 @@ class TVSetTest {
             }
 
             @Test
+            @DisplayName("can select channel by name if given name is set")
+            public void shouldSelectChannelByName() {
+                assertTrue(tvSet.selectChannel("name"));
+                assertEquals(tvSet.getChannel(), 10);
+            }
+
+            @Test
+            @DisplayName("can't select channel by name if given name isn't set")
+            public void shouldNotSelectChannelByName() {
+                assertFalse(tvSet.selectChannel("unknown channel"));
+            }
+
+            @Test
             @DisplayName("can delete channel name if given name is set")
             public void shouldDeleteChannelName() {
                 assertTrue(tvSet.deleteChannelName("name"));
