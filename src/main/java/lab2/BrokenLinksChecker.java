@@ -4,7 +4,9 @@ import java.io.FileWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.io.IOException;
-import java.util.Date;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -77,9 +79,11 @@ public class BrokenLinksChecker {
                 }
             }
 
-            Date date = new Date();
-            validLinks.write("\n" + "Number of links: " + validLinksCounter + "\n" + date + "\n");
-            brokenLinks.write("\n" + "Number of links: " + brokenLinksCounter + "\n"+ date + "\n");
+            DateFormat sdf = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+            Calendar cal = Calendar.getInstance();
+
+            validLinks.write("\n" + "Number of links: " + validLinksCounter + "\n" + sdf.format(cal.getTime()) + "\n");
+            brokenLinks.write("\n" + "Number of links: " + brokenLinksCounter + "\n"+ sdf.format(cal.getTime()) + "\n");
 
         } catch (Exception exception) {
             exception.printStackTrace();
