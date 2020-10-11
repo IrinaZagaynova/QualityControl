@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.*;
-import static org.junit.Assert.assertTrue;
 
 class TVSetTest {
     public TVSet tvSet;
@@ -56,7 +55,7 @@ class TVSetTest {
     @DisplayName("when tv is turn on")
     class TvIsTurnOn {
         @BeforeEach
-        public void init() {
+        public void setUp() {
             tvSet.turnOn();
         }
 
@@ -163,7 +162,7 @@ class TVSetTest {
         @DisplayName("when channel name is set")
         class channelNameIsSet {
             @BeforeEach
-            public void init() {
+            public void setUp() {
                 tvSet.setChannelName(10, "name");
             }
 
@@ -224,7 +223,7 @@ class TVSetTest {
         @DisplayName("when tv turns on again")
         class TvTurnsOnAgain {
             @BeforeEach
-            public void init() {
+            public void setUp() {
                 tvSet.selectChannel(33);
                 tvSet.turnOff();
                 tvSet.turnOn();
