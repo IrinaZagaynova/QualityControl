@@ -70,7 +70,7 @@ public class BrokenLinksChecker {
 
             for (String url : uniqueLinks) {
                 int responseCode = getLinkResponseCode(url);
-                if (responseCode < 300) {
+                if (responseCode >= 200 && responseCode < 300) {
                     validLinksCounter++;
                     validLinks.write(url + " " + responseCode + "\n");
                 } else {
