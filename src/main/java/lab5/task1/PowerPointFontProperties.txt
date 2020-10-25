@@ -1,0 +1,32 @@
+Шрифты: Arial, Arial Black, Book Antiqua, Bookman Old Style, Calibri, Calibri Light, Cambria, Candara, Century, Century Gothic, Century Schoolbook, Comic Sans MS, Consolas, Constantia, Corbel, Courier New, Franklin Gothic Book, Franklin Gothic Medium, Garamond, Gautami, Georgia, Gill Sans MT, Lucida Sans, Lucida Sans Unicode, Malgun Gothic, Microsoft JhengHei, Microsoft YaHei, MS Gothic, MS PGothic, MPingLiU-ExtB, Rockwell, Segoe UI, Segoe UI Light, SimSun, SimSun-ExtB, Sylfaen, Tahoma, TH SarabunPSK, Times, Times New Roman, Trebuchet MS, TW Cen MT, Verdana
+Размер: 8, 9, 10, 10.5, 11, 12, 14, 16, 18, 20, 24, 28, 32, 36, 40, 44, 48, 54, 60, 66, 72, 80, 88, 96
+Цвет текста: стандартный, цвет из политры
+
+Подчеркивание: нет, одинарная линия, двойная линия, жирная линия, пунктирная линия, жирная пунктирная линия
+Цвет подчеркивания: нет, стандартный, цвет из политры
+
+Начертание: обычный, курсив, полужирный, полужирный курсив
+Зачеркнутый: true, false
+Двойное зачеркивание: true, false
+
+Надстрочный: true, false
+Подстрочный: true, false
+Сдвиг: -100, -50, 0, 50, 100
+Малые прописные: true, false
+Все прописные: true, false
+Выровнять высоту знаков: true, false
+
+{Шрифты, Размер, Цвет текста, Подчеркивание, Цвет подчеркивания, Начертание, Зачеркнутый, Двойное зачеркивание, Надстрочный, Подстрочный, Сдвиг, Малые прописные, Все прописные, Выровнять высоту знаков} @ 2
+
+IF [Подчеркивание] = "нет" THEN [Цвет подчеркивания] = "нет";
+IF [Подчеркивание] = "да" THEN [Цвет подчеркивания] <> "нет";
+
+IF [Зачеркнутый] = "true" THEN [Двойное зачеркивание] = "false";
+IF [Двойное зачеркивание] = "true" THEN [Зачеркнутый] = "false";
+
+IF [Надстрочный] = "true" THEN ([Подстрочный] = "false" AND [Сдвиг] > 0);
+IF [Подстрочный] = "true" THEN ([Надстрочный] = "false" AND [Сдвиг] < 0);
+IF [Надстрочный] = "false" AND [Надстрочный] = "false" THEN [Сдвиг] = 0;
+
+IF [Малые прописные] = "true" THEN [Все прописные] = "false";
+IF [Все прописные] = "true" THEN [Малые прописные] = "false";

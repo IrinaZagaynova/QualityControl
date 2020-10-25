@@ -1,0 +1,1036 @@
+результаты в табличном виде:
+https://docs.google.com/spreadsheets/d/1nGiAhGcIHm1QikKIbAN_krccRdjT34EOUSx4z0APf2s/edit?usp=sharing
+
+Шрифты	Размер	Цвет текста	Подчеркивание	Цвет подчеркивания	Начертание	Зачеркнутый	Двойное зачеркивание	Надстрочный	Подстрочный	Сдвиг	Малые прописные	Все прописные	Выровнять высоту знаков
+Times New Roman	96	стандартный	жирная линия	стандартный	полужирный	true	false	true	false	100	true	false	true
+Sylfaen	8	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	true	true	false	50	false	true	true
+Franklin Gothic Medium	32	цвет из политры	одинарная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+MS Gothic	12	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	false
+Candara	24	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	false	false	0	false	false	true
+Book Antiqua	96	цвет из политры	жирная линия	цвет из политры	обычный	true	false	false	false	0	true	false	true
+Candara	40	цвет из политры	пунктирная линия	нет	обычный	false	true	true	false	50	false	false	true
+Calibri Light	36	стандартный	пунктирная линия	стандартный	курсив	false	false	true	false	100	true	false	false
+Comic Sans MS	88	цвет из политры	двойная линия	цвет из политры	курсив	false	true	true	false	100	true	false	true
+Constantia	40	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	false
+TW Cen MT	10.5	цвет из политры	одинарная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	false
+Georgia	36	стандартный	пунктирная линия	цвет из политры	курсив	false	true	true	false	100	true	false	true
+Constantia	9	цвет из политры	пунктирная линия	цвет из политры	полужирный	true	false	false	false	0	true	false	false
+Verdana	20	стандартный	двойная линия	стандартный	полужирный	false	false	true	false	100	false	false	true
+Consolas	8	цвет из политры	пунктирная линия	нет	обычный	true	false	true	false	50	false	true	false
+Consolas	10.5	стандартный	жирная пунктирная линия	стандартный	курсив	false	true	true	false	100	false	true	true
+Century Schoolbook	12	цвет из политры	одинарная линия	нет	обычный	false	true	false	false	0	false	true	true
+Times New Roman	18	стандартный	двойная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+Calibri	32	стандартный	жирная линия	цвет из политры	полужирный	false	true	true	false	50	false	false	true
+Lucida Sans	28	цвет из политры	жирная пунктирная линия	нет	полужирный	false	true	true	false	100	true	false	true
+Calibri Light	66	цвет из политры	жирная линия	нет	полужирный курсив	false	false	true	false	100	false	true	true
+Cambria	14	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+Georgia	72	цвет из политры	жирная линия	нет	курсив	false	true	true	false	50	false	false	false
+MPingLiU-ExtB	32	стандартный	двойная линия	цвет из политры	курсив	false	true	true	false	50	true	false	true
+SimSun	32	стандартный	жирная линия	нет	полужирный	false	true	false	false	0	false	false	true
+Century Gothic	10	цвет из политры	двойная линия	нет	обычный	false	false	true	false	100	false	true	false
+SimSun-ExtB	16	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	100	false	true	true
+Trebuchet MS	96	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	false
+Franklin Gothic Medium	66	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	50	true	false	true
+Franklin Gothic Medium	80	цвет из политры	двойная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	false
+Courier New	11	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	true
+Arial	8	цвет из политры	двойная линия	цвет из политры	полужирный	true	false	true	false	100	false	true	true
+Constantia	10.5	стандартный	жирная пунктирная линия	стандартный	обычный	true	false	true	false	100	false	false	true
+Century Schoolbook	54	цвет из политры	жирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	true
+Tahoma	11	цвет из политры	пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	true	false	false
+Times New Roman	10	стандартный	одинарная линия	стандартный	полужирный	false	true	false	false	0	false	true	true
+Arial Black	66	стандартный	двойная линия	стандартный	обычный	false	true	true	false	100	true	false	true
+Corbel	40	стандартный	пунктирная линия	цвет из политры	курсив	false	true	true	false	100	false	false	false
+SimSun-ExtB	72	цвет из политры	двойная линия	нет	полужирный курсив	false	false	false	false	0	false	true	true
+Franklin Gothic Medium	28	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	true
+Trebuchet MS	54	стандартный	одинарная линия	цвет из политры	обычный	false	true	true	false	50	false	false	false
+MPingLiU-ExtB	28	стандартный	жирная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+SimSun	14	стандартный	одинарная линия	цвет из политры	курсив	true	false	true	false	50	false	true	false
+Century Schoolbook	16	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	100	false	false	false
+Verdana	72	стандартный	жирная линия	стандартный	обычный	false	true	false	false	0	false	false	false
+Lucida Sans Unicode	80	цвет из политры	жирная линия	нет	полужирный курсив	false	true	false	false	0	false	true	false
+Cambria	72	стандартный	двойная линия	цвет из политры	обычный	true	false	true	false	50	false	true	true
+Franklin Gothic Book	54	стандартный	жирная линия	нет	полужирный курсив	true	false	true	false	100	false	false	false
+Tahoma	60	стандартный	пунктирная линия	стандартный	полужирный	false	false	true	false	50	false	true	true
+Corbel	32	стандартный	пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	true
+Times	10	цвет из политры	одинарная линия	нет	полужирный курсив	false	false	false	false	0	false	true	false
+Century Gothic	14	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Candara	18	стандартный	одинарная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Franklin Gothic Medium	18	цвет из политры	одинарная линия	стандартный	полужирный курсив	true	false	true	false	100	false	false	true
+Lucida Sans Unicode	88	стандартный	жирная пунктирная линия	цвет из политры	обычный	false	false	true	false	100	false	false	true
+Calibri Light	10	стандартный	двойная линия	цвет из политры	полужирный	false	true	false	false	0	false	false	false
+Gautami	8	цвет из политры	двойная линия	нет	полужирный курсив	false	false	false	false	0	true	false	false
+Constantia	32	стандартный	жирная линия	цвет из политры	полужирный	true	false	true	false	100	false	true	true
+Verdana	28	стандартный	одинарная линия	стандартный	курсив	false	true	true	false	100	false	false	false
+Bookman Old Style	9	стандартный	жирная линия	цвет из политры	обычный	false	true	true	false	50	true	false	true
+Verdana	11	стандартный	пунктирная линия	стандартный	обычный	false	false	true	false	100	false	true	true
+MS Gothic	48	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	50	true	false	false
+Georgia	20	стандартный	жирная пунктирная линия	нет	полужирный	false	true	true	false	50	false	false	true
+Garamond	60	цвет из политры	пунктирная линия	нет	обычный	false	false	true	false	100	false	true	true
+Tahoma	18	стандартный	жирная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	false
+Century Schoolbook	24	стандартный	жирная пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+MS PGothic	12	стандартный	жирная пунктирная линия	нет	полужирный	true	false	true	false	100	false	true	false
+SimSun	96	стандартный	жирная линия	цвет из политры	курсив	false	false	true	false	50	true	false	false
+SimSun-ExtB	40	стандартный	одинарная линия	нет	обычный	true	false	false	false	0	true	false	true
+Century	11	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	true	false	50	true	false	true
+Cambria	10	цвет из политры	пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	false	true	false
+TW Cen MT	12	цвет из политры	двойная линия	нет	обычный	true	false	false	false	0	true	false	false
+Cambria	24	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	true
+Century Schoolbook	36	цвет из политры	пунктирная линия	нет	полужирный	true	false	true	false	50	false	false	false
+TW Cen MT	14	стандартный	одинарная линия	стандартный	курсив	false	false	true	false	50	false	true	false
+Cambria	32	цвет из политры	двойная линия	нет	полужирный	true	false	false	false	0	false	true	false
+Franklin Gothic Medium	40	стандартный	двойная линия	стандартный	обычный	false	false	false	false	0	false	true	false
+Trebuchet MS	48	стандартный	одинарная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	true
+Lucida Sans	36	стандартный	жирная линия	цвет из политры	обычный	true	false	false	false	0	false	false	true
+Calibri Light	24	цвет из политры	пунктирная линия	нет	курсив	true	false	false	false	0	false	false	true
+Times	9	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	true
+Segoe UI	72	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	false	true	false	100	false	false	false
+Rockwell	36	стандартный	жирная линия	цвет из политры	курсив	true	false	false	false	0	false	true	false
+Times New Roman	60	цвет из политры	жирная пунктирная линия	нет	полужирный	true	false	true	false	50	false	true	false
+Segoe UI	80	стандартный	одинарная линия	стандартный	полужирный курсив	false	false	true	false	50	true	false	true
+Franklin Gothic Book	60	цвет из политры	двойная линия	стандартный	полужирный	false	false	true	false	100	true	false	true
+Verdana	36	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+Franklin Gothic Medium	16	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	true
+Malgun Gothic	88	стандартный	нет	нет	полужирный курсив	true	false	false	false	0	false	true	true
+SimSun-ExtB	88	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	false	true	false	50	false	true	false
+Corbel	54	стандартный	одинарная линия	стандартный	курсив	false	true	true	false	50	false	true	false
+Microsoft JhengHei	10	стандартный	жирная пунктирная линия	нет	полужирный	false	true	true	false	50	true	false	false
+Courier New	28	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	false	false	false	false	0	false	true	false
+Malgun Gothic	54	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	true
+Bookman Old Style	16	стандартный	одинарная линия	нет	полужирный	false	true	true	false	100	false	true	false
+MS Gothic	32	стандартный	пунктирная линия	цвет из политры	обычный	true	false	true	false	100	true	false	true
+MPingLiU-ExtB	11	стандартный	нет	нет	обычный	false	true	true	false	100	true	false	true
+Constantia	18	стандартный	двойная линия	стандартный	обычный	false	false	true	false	50	false	true	false
+Microsoft JhengHei	36	стандартный	жирная пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Segoe UI	88	стандартный	двойная линия	цвет из политры	полужирный курсив	false	false	true	false	50	true	false	false
+Candara	96	цвет из политры	одинарная линия	нет	полужирный	false	true	true	false	100	false	true	false
+Times New Roman	8	стандартный	нет	нет	полужирный	false	true	false	false	0	false	true	true
+Consolas	48	стандартный	пунктирная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	true	true
+Gautami	72	стандартный	жирная линия	цвет из политры	полужирный курсив	true	false	false	false	0	true	false	true
+Gill Sans MT	14	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	false
+Comic Sans MS	66	цвет из политры	жирная пунктирная линия	стандартный	полужирный	false	true	false	false	0	true	false	false
+Book Antiqua	16	стандартный	жирная линия	стандартный	курсив	true	false	false	false	0	true	false	false
+Arial	14	стандартный	жирная линия	стандартный	курсив	false	false	true	false	50	false	false	false
+Segoe UI	10.5	стандартный	одинарная линия	цвет из политры	полужирный	false	true	true	false	50	false	false	true
+Franklin Gothic Medium	88	цвет из политры	пунктирная линия	стандартный	полужирный	false	false	false	false	0	false	true	true
+Gill Sans MT	60	цвет из политры	двойная линия	нет	полужирный курсив	false	true	true	false	50	false	true	true
+Lucida Sans Unicode	18	стандартный	жирная линия	нет	полужирный	false	false	false	false	0	false	true	false
+Calibri	12	стандартный	двойная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	true
+Segoe UI	40	цвет из политры	нет	нет	полужирный курсив	false	true	true	false	50	false	true	false
+Courier New	60	стандартный	жирная линия	стандартный	обычный	false	true	true	false	50	true	false	true
+Candara	8	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Comic Sans MS	16	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	false
+Corbel	12	цвет из политры	жирная пунктирная линия	нет	курсив	false	false	false	false	0	true	false	false
+Franklin Gothic Book	88	цвет из политры	двойная линия	стандартный	курсив	false	true	true	false	50	false	true	false
+Times	60	стандартный	одинарная линия	нет	полужирный курсив	true	false	true	false	50	false	true	true
+MPingLiU-ExtB	96	цвет из политры	двойная линия	стандартный	курсив	false	true	false	false	0	true	false	false
+Consolas	28	цвет из политры	двойная линия	цвет из политры	курсив	true	false	true	false	50	false	true	true
+Corbel	36	стандартный	жирная линия	цвет из политры	полужирный	true	false	false	false	0	true	false	true
+Segoe UI	10	цвет из политры	жирная линия	стандартный	курсив	true	false	true	false	100	false	false	false
+Times	8	цвет из политры	нет	нет	курсив	false	true	false	false	0	false	true	true
+Tahoma	72	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	false	false	false	0	true	false	false
+SimSun-ExtB	96	цвет из политры	двойная линия	цвет из политры	обычный	false	true	true	false	50	false	true	true
+Gill Sans MT	18	стандартный	пунктирная линия	стандартный	обычный	false	false	true	false	50	false	false	true
+Segoe UI Light	88	цвет из политры	одинарная линия	нет	обычный	false	true	true	false	100	false	false	true
+Franklin Gothic Book	32	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+Comic Sans MS	8	стандартный	жирная линия	стандартный	полужирный	true	false	true	false	50	false	true	false
+Georgia	9	цвет из политры	жирная линия	стандартный	полужирный курсив	false	true	false	false	0	true	false	true
+Segoe UI Light	72	стандартный	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Calibri	9	цвет из политры	двойная линия	нет	полужирный курсив	true	false	false	false	0	false	true	true
+TH SarabunPSK	60	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	false
+Segoe UI	16	стандартный	одинарная линия	цвет из политры	обычный	false	false	true	false	100	false	true	false
+Courier New	66	цвет из политры	пунктирная линия	нет	обычный	false	true	false	false	0	false	true	true
+Segoe UI Light	9	стандартный	пунктирная линия	цвет из политры	обычный	false	true	true	false	100	true	false	false
+Microsoft YaHei	40	стандартный	нет	нет	обычный	true	false	false	false	0	false	true	false
+Trebuchet MS	40	цвет из политры	одинарная линия	цвет из политры	обычный	false	true	true	false	100	false	true	false
+TW Cen MT	10	цвет из политры	одинарная линия	нет	полужирный курсив	false	true	true	false	100	false	true	false
+Book Antiqua	72	цвет из политры	жирная пунктирная линия	стандартный	обычный	true	false	true	false	100	false	false	false
+Calibri	14	цвет из политры	жирная линия	нет	курсив	true	false	true	false	50	false	true	false
+Lucida Sans Unicode	44	стандартный	пунктирная линия	нет	полужирный курсив	true	false	true	false	50	false	false	true
+Sylfaen	11	стандартный	одинарная линия	нет	обычный	false	true	true	false	50	false	false	true
+Franklin Gothic Book	36	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	true
+MPingLiU-ExtB	36	стандартный	нет	нет	полужирный	false	false	true	false	50	true	false	true
+Lucida Sans Unicode	9	цвет из политры	пунктирная линия	стандартный	полужирный курсив	true	false	true	false	100	false	false	true
+Times	24	стандартный	одинарная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	true
+TH SarabunPSK	8	стандартный	нет	нет	полужирный	true	false	true	false	100	false	true	true
+MS PGothic	54	стандартный	жирная линия	цвет из политры	курсив	false	false	true	false	100	true	false	false
+Rockwell	28	цвет из политры	жирная пунктирная линия	нет	курсив	false	false	true	false	100	false	true	true
+Bookman Old Style	60	стандартный	жирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	true
+SimSun	10	стандартный	жирная линия	цвет из политры	обычный	false	true	true	false	100	true	false	false
+Arial Black	96	цвет из политры	нет	нет	полужирный	false	false	true	false	50	false	true	false
+MS Gothic	9	цвет из политры	пунктирная линия	нет	полужирный курсив	false	true	true	false	50	false	true	false
+Microsoft YaHei	18	цвет из политры	пунктирная линия	стандартный	обычный	true	false	true	false	50	false	false	true
+Consolas	80	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	100	false	true	true
+MPingLiU-ExtB	9	цвет из политры	жирная линия	стандартный	полужирный	false	true	true	false	50	false	true	false
+Constantia	54	цвет из политры	двойная линия	нет	курсив	false	false	true	false	100	false	false	false
+Calibri Light	54	стандартный	пунктирная линия	стандартный	обычный	false	false	true	false	100	true	false	true
+Bookman Old Style	24	стандартный	нет	нет	курсив	false	false	false	false	0	true	false	true
+Sylfaen	32	стандартный	двойная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	true
+Trebuchet MS	8	цвет из политры	пунктирная линия	стандартный	полужирный	false	false	true	false	100	true	false	false
+Gill Sans MT	32	цвет из политры	жирная линия	нет	обычный	false	false	true	false	100	false	true	true
+Arial Black	18	стандартный	двойная линия	стандартный	полужирный	true	false	true	false	50	false	false	true
+TH SarabunPSK	54	стандартный	жирная пунктирная линия	нет	обычный	false	false	true	false	100	true	false	false
+Tahoma	14	цвет из политры	одинарная линия	стандартный	курсив	false	true	true	false	50	false	true	true
+Century Schoolbook	44	цвет из политры	жирная линия	нет	курсив	false	false	false	false	0	false	true	false
+Tahoma	28	цвет из политры	нет	нет	полужирный	false	true	false	false	0	false	true	false
+MS PGothic	72	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	false	true	false
+Corbel	16	стандартный	пунктирная линия	стандартный	обычный	true	false	false	false	0	false	true	false
+MS Gothic	16	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+SimSun	11	цвет из политры	жирная линия	нет	курсив	false	true	false	false	0	false	true	true
+Microsoft JhengHei	10.5	стандартный	жирная линия	нет	полужирный курсив	false	false	true	false	100	false	true	true
+TW Cen MT	72	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	100	false	false	false
+Book Antiqua	36	стандартный	жирная линия	цвет из политры	полужирный	false	true	true	false	100	false	false	false
+Segoe UI Light	10	цвет из политры	двойная линия	стандартный	курсив	false	false	true	false	50	false	true	true
+MS PGothic	66	цвет из политры	пунктирная линия	стандартный	курсив	false	true	true	false	100	true	false	true
+Arial Black	9	стандартный	пунктирная линия	нет	полужирный	true	false	false	false	0	false	true	true
+Calibri	16	стандартный	жирная линия	стандартный	полужирный	true	false	true	false	50	false	true	true
+Franklin Gothic Book	10	цвет из политры	нет	нет	курсив	true	false	true	false	100	true	false	true
+Century	18	цвет из политры	жирная пунктирная линия	нет	курсив	false	true	true	false	50	false	true	false
+Arial Black	72	стандартный	жирная пунктирная линия	стандартный	обычный	true	false	false	false	0	false	false	true
+MPingLiU-ExtB	10.5	цвет из политры	одинарная линия	нет	курсив	false	true	true	false	50	true	false	true
+Calibri Light	20	цвет из политры	одинарная линия	нет	полужирный	false	true	true	false	50	false	false	false
+Calibri Light	14	цвет из политры	пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Century	96	стандартный	одинарная линия	нет	обычный	false	true	true	false	100	false	false	false
+Consolas	44	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	true
+Times	16	стандартный	одинарная линия	стандартный	курсив	false	true	false	false	0	false	false	false
+Sylfaen	36	стандартный	жирная пунктирная линия	нет	полужирный курсив	true	false	false	false	0	true	false	false
+Courier New	9	стандартный	одинарная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	false	false
+Gautami	12	стандартный	пунктирная линия	цвет из политры	полужирный	false	false	true	false	100	true	false	true
+Franklin Gothic Medium	10	стандартный	жирная линия	стандартный	курсив	false	true	false	false	0	false	true	false
+Verdana	8	цвет из политры	пунктирная линия	цвет из политры	полужирный	true	false	true	false	50	false	true	false
+Consolas	40	стандартный	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	true
+Gill Sans MT	36	цвет из политры	двойная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	false	false
+Gautami	66	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	false	true	false	100	false	false	false
+Rockwell	96	стандартный	одинарная линия	стандартный	обычный	true	false	true	false	100	true	false	true
+Calibri Light	96	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	50	false	false	false
+Century Gothic	66	цвет из политры	двойная линия	цвет из политры	обычный	false	true	true	false	50	true	false	true
+SimSun	54	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	false	false	false	false	0	false	true	false
+Century Schoolbook	88	цвет из политры	жирная пунктирная линия	нет	полужирный	true	false	true	false	50	true	false	true
+TH SarabunPSK	28	цвет из политры	двойная линия	стандартный	полужирный курсив	true	false	true	false	100	false	true	false
+Times New Roman	40	цвет из политры	жирная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	false
+Microsoft JhengHei	32	цвет из политры	пунктирная линия	нет	обычный	false	true	true	false	50	false	false	false
+Tahoma	40	цвет из политры	жирная линия	цвет из политры	полужирный курсив	true	false	true	false	100	false	true	false
+Times	14	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	false	false	0	false	true	true
+Calibri	20	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	false	true	true
+Cambria	8	цвет из политры	одинарная линия	цвет из политры	курсив	false	false	true	false	100	true	false	false
+Calibri	48	цвет из политры	пунктирная линия	цвет из политры	полужирный	true	false	false	false	0	true	false	true
+Rockwell	14	цвет из политры	жирная линия	стандартный	полужирный	false	false	true	false	50	true	false	false
+Century Schoolbook	48	стандартный	двойная линия	цвет из политры	обычный	false	false	true	false	100	false	true	true
+MPingLiU-ExtB	44	цвет из политры	двойная линия	нет	курсив	false	true	true	false	100	false	true	true
+Segoe UI Light	66	цвет из политры	нет	нет	курсив	true	false	false	false	0	false	true	false
+Comic Sans MS	54	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Times	44	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	false	true
+Segoe UI Light	60	цвет из политры	жирная линия	стандартный	курсив	false	false	true	false	50	false	false	true
+MS PGothic	14	стандартный	жирная пунктирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	false
+MPingLiU-ExtB	24	цвет из политры	одинарная линия	стандартный	обычный	false	false	true	false	50	true	false	false
+SimSun-ExtB	60	стандартный	двойная линия	цвет из политры	полужирный	false	true	false	false	0	false	true	true
+Gill Sans MT	66	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	false	false	0	false	true	true
+Calibri Light	40	цвет из политры	одинарная линия	нет	обычный	false	true	true	false	50	false	false	false
+Malgun Gothic	8	стандартный	жирная линия	стандартный	курсив	true	false	true	false	50	false	false	true
+Constantia	28	цвет из политры	нет	нет	обычный	false	true	true	false	100	false	true	true
+TH SarabunPSK	11	цвет из политры	двойная линия	нет	полужирный	false	true	true	false	50	false	true	false
+Book Antiqua	60	стандартный	двойная линия	стандартный	полужирный	false	true	true	false	100	false	true	false
+Calibri	11	цвет из политры	двойная линия	нет	обычный	false	true	true	false	100	false	false	true
+Lucida Sans	40	цвет из политры	двойная линия	цвет из политры	обычный	true	false	true	false	50	false	false	false
+Microsoft JhengHei	16	стандартный	одинарная линия	нет	курсив	false	true	true	false	100	false	true	true
+Verdana	48	стандартный	пунктирная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	false
+Lucida Sans Unicode	14	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	false	true	false	50	false	true	false
+Bookman Old Style	8	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	false	true	true	false	100	false	false	true
+Gill Sans MT	8	стандартный	жирная линия	нет	полужирный курсив	true	false	true	false	50	true	false	true
+Bookman Old Style	32	стандартный	жирная пунктирная линия	нет	полужирный	false	false	false	false	0	false	true	false
+Tahoma	48	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	100	false	true	true
+Segoe UI	14	цвет из политры	пунктирная линия	стандартный	курсив	true	false	true	false	50	true	false	false
+Calibri Light	9	стандартный	пунктирная линия	цвет из политры	обычный	false	false	true	false	100	true	false	false
+Century	44	цвет из политры	пунктирная линия	нет	полужирный курсив	false	true	false	false	0	true	false	true
+Lucida Sans	96	цвет из политры	жирная пунктирная линия	нет	курсив	true	false	true	false	50	true	false	false
+Georgia	44	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	false
+Franklin Gothic Book	18	стандартный	пунктирная линия	стандартный	обычный	false	true	true	false	100	false	true	true
+Gill Sans MT	20	цвет из политры	пунктирная линия	стандартный	полужирный курсив	true	false	true	false	50	false	true	false
+TH SarabunPSK	32	цвет из политры	одинарная линия	стандартный	полужирный курсив	true	false	false	false	0	false	false	true
+MS Gothic	10.5	цвет из политры	нет	нет	полужирный	false	false	false	false	0	true	false	false
+SimSun	16	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	true	true	false	100	true	false	false
+Century Gothic	24	стандартный	пунктирная линия	стандартный	обычный	false	false	true	false	100	false	false	false
+Rockwell	40	стандартный	двойная линия	нет	курсив	true	false	true	false	100	true	false	false
+Arial Black	20	цвет из политры	двойная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	false
+Calibri	80	стандартный	одинарная линия	стандартный	обычный	true	false	false	false	0	true	false	true
+Times	36	цвет из политры	одинарная линия	стандартный	полужирный курсив	false	true	true	false	50	false	true	false
+SimSun-ExtB	24	цвет из политры	одинарная линия	нет	полужирный курсив	true	false	true	false	100	false	true	true
+Microsoft JhengHei	20	цвет из политры	пунктирная линия	нет	полужирный курсив	true	false	false	false	0	false	true	true
+Comic Sans MS	96	стандартный	пунктирная линия	цвет из политры	курсив	false	false	true	false	50	false	true	true
+Consolas	72	стандартный	двойная линия	стандартный	полужирный курсив	false	true	true	false	100	false	false	true
+Gill Sans MT	80	стандартный	жирная пунктирная линия	нет	обычный	false	false	true	false	50	false	true	false
+Malgun Gothic	18	стандартный	одинарная линия	нет	обычный	false	true	true	false	100	false	true	false
+Georgia	10	стандартный	жирная пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Segoe UI Light	16	цвет из политры	пунктирная линия	цвет из политры	обычный	true	false	true	false	100	false	true	false
+MS PGothic	28	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	false	false	false	false	0	false	true	false
+Century	80	стандартный	жирная пунктирная линия	стандартный	курсив	true	false	false	false	0	false	true	true
+Sylfaen	96	цвет из политры	пунктирная линия	стандартный	полужирный	false	false	false	false	0	false	false	true
+SimSun-ExtB	28	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	100	false	true	false
+Verdana	10	стандартный	жирная линия	цвет из политры	обычный	true	false	true	false	100	false	true	false
+Century Schoolbook	18	цвет из политры	двойная линия	стандартный	полужирный	true	false	false	false	0	false	false	true
+Garamond	80	стандартный	двойная линия	стандартный	полужирный курсив	true	false	true	false	100	true	false	true
+Garamond	88	цвет из политры	двойная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	true
+Book Antiqua	9	стандартный	жирная пунктирная линия	стандартный	полужирный	false	true	false	false	0	false	false	false
+Georgia	28	стандартный	пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Gautami	14	стандартный	нет	нет	курсив	false	true	true	false	100	false	true	false
+TH SarabunPSK	44	цвет из политры	двойная линия	стандартный	обычный	true	false	false	false	0	false	true	false
+Lucida Sans	32	цвет из политры	жирная линия	цвет из политры	полужирный	true	false	true	false	50	false	true	false
+MS Gothic	88	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	true
+MS PGothic	10.5	цвет из политры	жирная линия	стандартный	курсив	false	true	false	false	0	false	false	false
+Segoe UI	60	цвет из политры	двойная линия	цвет из политры	полужирный	false	true	true	false	100	false	false	true
+Candara	11	стандартный	двойная линия	нет	обычный	false	false	false	false	0	false	true	true
+Constantia	20	стандартный	одинарная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Bookman Old Style	54	цвет из политры	двойная линия	нет	полужирный	false	false	false	false	0	true	false	false
+Gill Sans MT	44	стандартный	нет	нет	курсив	false	false	true	false	50	false	false	true
+Verdana	10.5	стандартный	двойная линия	стандартный	полужирный курсив	false	false	true	false	50	false	true	false
+Constantia	12	цвет из политры	жирная линия	цвет из политры	обычный	false	true	false	false	0	false	false	true
+Trebuchet MS	44	стандартный	одинарная линия	нет	полужирный курсив	false	false	true	false	100	false	true	true
+Franklin Gothic Book	28	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	false	true
+Franklin Gothic Book	80	цвет из политры	жирная линия	нет	полужирный	false	true	true	false	50	false	false	false
+Garamond	24	стандартный	жирная пунктирная линия	нет	обычный	false	false	true	false	100	false	true	true
+Corbel	18	цвет из политры	нет	нет	курсив	false	true	true	false	50	false	true	false
+SimSun-ExtB	12	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	true
+Segoe UI Light	12	цвет из политры	жирная линия	нет	курсив	false	true	false	false	0	true	false	false
+Microsoft JhengHei	40	цвет из политры	жирная линия	нет	полужирный курсив	true	false	true	false	50	false	false	true
+Georgia	32	стандартный	нет	нет	полужирный курсив	false	true	true	false	50	true	false	true
+Gill Sans MT	40	цвет из политры	одинарная линия	нет	полужирный курсив	true	false	true	false	50	false	false	false
+MS Gothic	11	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	true	false	100	false	true	true
+Lucida Sans Unicode	28	стандартный	пунктирная линия	стандартный	курсив	true	false	true	false	100	false	true	false
+Segoe UI	96	стандартный	одинарная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+Times New Roman	88	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	false
+Cambria	20	цвет из политры	пунктирная линия	нет	полужирный	false	false	true	false	100	false	true	true
+Corbel	9	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+Arial	20	стандартный	одинарная линия	цвет из политры	курсив	false	false	true	false	100	true	false	true
+Comic Sans MS	9	стандартный	нет	нет	полужирный курсив	false	true	true	false	100	false	true	false
+Corbel	24	цвет из политры	жирная линия	нет	курсив	true	false	false	false	0	false	true	false
+Tahoma	32	стандартный	одинарная линия	стандартный	полужирный	false	false	false	false	0	false	true	true
+Franklin Gothic Medium	24	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	false	false	true	false	50	false	false	false
+Rockwell	10.5	цвет из политры	одинарная линия	цвет из политры	обычный	false	false	true	false	50	false	true	false
+Gautami	88	цвет из политры	нет	нет	курсив	false	true	true	false	100	false	true	true
+Lucida Sans Unicode	10	цвет из политры	двойная линия	стандартный	полужирный	false	true	true	false	50	true	false	false
+Constantia	8	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+MS PGothic	80	цвет из политры	одинарная линия	нет	курсив	false	true	true	false	100	false	true	true
+Gautami	60	стандартный	жирная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	false
+Lucida Sans	8	цвет из политры	жирная линия	цвет из политры	курсив	false	true	true	false	50	true	false	true
+TW Cen MT	8	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	true
+Gautami	54	цвет из политры	одинарная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+Verdana	66	цвет из политры	одинарная линия	стандартный	курсив	false	true	false	false	0	false	true	false
+TW Cen MT	48	цвет из политры	пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	false
+Segoe UI Light	54	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Rockwell	11	цвет из политры	жирная линия	нет	полужирный	true	false	true	false	50	false	true	false
+Franklin Gothic Medium	48	стандартный	двойная линия	нет	курсив	false	true	false	false	0	false	true	false
+SimSun-ExtB	20	стандартный	нет	нет	полужирный	false	false	true	false	50	false	false	false
+Constantia	96	цвет из политры	жирная линия	нет	полужирный	false	true	true	false	50	false	true	true
+Georgia	14	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+TH SarabunPSK	72	стандартный	одинарная линия	цвет из политры	курсив	true	false	true	false	100	true	false	false
+Book Antiqua	54	цвет из политры	двойная линия	цвет из политры	курсив	true	false	false	false	0	false	true	true
+Rockwell	18	цвет из политры	пунктирная линия	стандартный	полужирный	true	false	true	false	100	true	false	true
+MPingLiU-ExtB	8	цвет из политры	нет	нет	полужирный	false	true	true	false	100	false	false	true
+Arial	66	стандартный	жирная линия	стандартный	курсив	false	false	true	false	100	false	true	false
+Calibri	96	цвет из политры	жирная пунктирная линия	стандартный	полужирный	true	false	false	false	0	false	true	false
+Sylfaen	10	стандартный	одинарная линия	нет	курсив	true	false	true	false	50	false	true	false
+TW Cen MT	88	стандартный	жирная пунктирная линия	стандартный	курсив	true	false	true	false	50	true	false	true
+Century Schoolbook	60	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	false	true	false	100	false	true	false
+Tahoma	10	стандартный	жирная пунктирная линия	цвет из политры	обычный	false	false	true	false	50	false	true	true
+MS Gothic	60	цвет из политры	жирная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Courier New	24	цвет из политры	одинарная линия	цвет из политры	полужирный	false	false	false	false	0	true	false	true
+Comic Sans MS	32	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	true
+Segoe UI Light	44	стандартный	одинарная линия	стандартный	курсив	true	false	false	false	0	true	false	false
+Rockwell	44	цвет из политры	жирная линия	нет	обычный	false	true	true	false	100	false	false	true
+Segoe UI	66	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	false	false	true	false	50	false	true	true
+Georgia	16	стандартный	жирная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	true
+Calibri	24	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	true
+Sylfaen	40	цвет из политры	пунктирная линия	нет	полужирный	false	true	true	false	100	false	true	true
+Bookman Old Style	44	стандартный	жирная пунктирная линия	стандартный	полужирный	false	true	false	false	0	false	true	true
+Franklin Gothic Medium	14	стандартный	одинарная линия	нет	курсив	false	true	true	false	50	false	true	true
+Georgia	11	цвет из политры	жирная линия	цвет из политры	полужирный	false	false	true	false	50	false	false	false
+Arial Black	10	цвет из политры	жирная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	true
+Malgun Gothic	10.5	цвет из политры	жирная линия	нет	обычный	false	false	true	false	50	false	true	true
+Franklin Gothic Book	66	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	false
+Book Antiqua	44	стандартный	двойная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	false	false
+Gautami	20	стандартный	пунктирная линия	нет	полужирный курсив	true	false	true	false	50	false	false	false
+Verdana	54	стандартный	двойная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	true	true
+Segoe UI	12	стандартный	жирная линия	цвет из политры	курсив	false	true	true	false	50	true	false	false
+Consolas	60	стандартный	двойная линия	стандартный	курсив	false	false	true	false	50	true	false	true
+Malgun Gothic	11	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	false
+Segoe UI	48	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	true	false	false	false	0	false	true	false
+Comic Sans MS	80	стандартный	жирная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	false
+Consolas	11	стандартный	жирная линия	цвет из политры	обычный	false	true	false	false	0	false	false	true
+MS Gothic	10	цвет из политры	одинарная линия	нет	курсив	false	false	false	false	0	false	false	true
+Trebuchet MS	28	цвет из политры	двойная линия	нет	полужирный	false	false	true	false	100	false	true	true
+Times New Roman	9	стандартный	двойная линия	цвет из политры	полужирный	false	false	true	false	50	false	false	false
+Trebuchet MS	24	цвет из политры	жирная пунктирная линия	нет	полужирный	true	false	true	false	100	false	true	true
+Rockwell	48	стандартный	одинарная линия	стандартный	полужирный	false	true	true	false	100	true	false	false
+MS PGothic	96	стандартный	жирная линия	стандартный	обычный	false	false	false	false	0	false	true	true
+Microsoft JhengHei	18	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	true
+Corbel	10	стандартный	двойная линия	стандартный	полужирный	false	true	false	false	0	true	false	true
+Calibri	8	стандартный	одинарная линия	стандартный	курсив	true	false	true	false	50	false	true	false
+Book Antiqua	66	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	true	false	true	false	100	false	false	false
+Lucida Sans Unicode	32	стандартный	пунктирная линия	нет	обычный	false	true	false	false	0	false	true	true
+Century Schoolbook	32	цвет из политры	жирная линия	цвет из политры	курсив	false	true	true	false	100	true	false	false
+Segoe UI	9	стандартный	двойная линия	стандартный	полужирный	true	false	true	false	50	true	false	true
+Candara	60	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	true
+Arial	44	стандартный	нет	нет	полужирный	false	true	true	false	50	false	false	false
+Comic Sans MS	28	цвет из политры	двойная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+SimSun-ExtB	18	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	false	false	false	0	true	false	false
+Times New Roman	28	стандартный	одинарная линия	нет	полужирный курсив	false	true	true	false	50	true	false	false
+Tahoma	80	стандартный	пунктирная линия	нет	курсив	false	true	true	false	100	false	true	false
+Times New Roman	44	стандартный	двойная линия	цвет из политры	курсив	false	true	true	false	50	false	true	true
+Arial	72	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	50	true	false	false
+Bookman Old Style	10	стандартный	двойная линия	нет	обычный	false	true	false	false	0	false	true	true
+Microsoft YaHei	16	цвет из политры	пунктирная линия	цвет из политры	курсив	false	true	true	false	50	false	true	true
+Book Antiqua	11	стандартный	нет	нет	полужирный курсив	true	false	true	false	50	false	true	true
+Georgia	66	цвет из политры	двойная линия	стандартный	полужирный курсив	false	false	true	false	50	false	false	false
+Microsoft YaHei	48	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	true	false	false
+Trebuchet MS	11	стандартный	одинарная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+Sylfaen	14	стандартный	жирная линия	стандартный	полужирный	false	false	true	false	100	false	false	true
+TH SarabunPSK	9	цвет из политры	одинарная линия	нет	курсив	false	true	true	false	50	false	true	true
+Sylfaen	48	цвет из политры	жирная пунктирная линия	стандартный	полужирный	false	false	true	false	100	false	false	false
+Microsoft YaHei	54	стандартный	жирная пунктирная линия	стандартный	обычный	false	false	false	false	0	true	false	true
+Bookman Old Style	88	стандартный	жирная пунктирная линия	нет	обычный	false	false	true	false	100	false	false	true
+Arial Black	44	цвет из политры	жирная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Constantia	36	стандартный	пунктирная линия	стандартный	полужирный курсив	true	false	true	false	50	true	false	false
+Century	36	цвет из политры	пунктирная линия	цвет из политры	полужирный	true	false	false	false	0	true	false	false
+Times	28	стандартный	одинарная линия	цвет из политры	полужирный	false	true	true	false	100	false	false	true
+Courier New	32	стандартный	двойная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	false
+Cambria	12	стандартный	двойная линия	нет	обычный	false	false	true	false	50	false	true	true
+Times New Roman	32	стандартный	двойная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	true	false
+Cambria	40	цвет из политры	одинарная линия	цвет из политры	курсив	false	false	true	false	100	false	false	true
+Georgia	18	цвет из политры	пунктирная линия	стандартный	полужирный	true	false	false	false	0	true	false	true
+Times New Roman	36	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	true	false	false	false	0	true	false	true
+Gill Sans MT	88	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	true	false	true	false	100	false	true	false
+Malgun Gothic	10	цвет из политры	жирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	false
+Times New Roman	54	цвет из политры	пунктирная линия	стандартный	обычный	false	true	true	false	50	true	false	false
+Gill Sans MT	10.5	цвет из политры	одинарная линия	нет	обычный	false	true	false	false	0	true	false	false
+Garamond	11	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	true	false	false	0	true	false	false
+Franklin Gothic Book	14	стандартный	жирная пунктирная линия	нет	обычный	true	false	true	false	100	false	true	true
+Constantia	14	цвет из политры	жирная пунктирная линия	нет	обычный	false	true	false	false	0	false	false	false
+Century Gothic	48	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	false
+Consolas	10	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	false
+Georgia	80	цвет из политры	двойная линия	цвет из политры	обычный	false	true	false	false	0	false	true	true
+Microsoft YaHei	20	стандартный	двойная линия	стандартный	полужирный курсив	false	false	true	false	50	false	true	false
+Gill Sans MT	96	цвет из политры	пунктирная линия	стандартный	курсив	true	false	true	false	100	true	false	false
+Verdana	24	стандартный	двойная линия	нет	обычный	false	true	true	false	100	true	false	false
+Microsoft JhengHei	11	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	false
+Consolas	16	цвет из политры	двойная линия	цвет из политры	курсив	false	false	false	false	0	false	true	true
+Calibri Light	32	стандартный	жирная линия	цвет из политры	полужирный	true	false	false	false	0	false	false	true
+Courier New	96	стандартный	жирная линия	цвет из политры	курсив	true	false	true	false	100	false	false	false
+Microsoft YaHei	60	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	50	false	false	false
+Arial Black	48	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	false
+Century	16	стандартный	одинарная линия	нет	курсив	false	true	true	false	100	false	false	true
+Verdana	14	стандартный	одинарная линия	нет	полужирный	true	false	true	false	50	false	true	true
+MS PGothic	18	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	false	true
+Segoe UI	28	стандартный	нет	нет	полужирный курсив	false	true	false	false	0	false	true	true
+Bookman Old Style	18	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	false	true	false	50	false	false	false
+Comic Sans MS	12	стандартный	одинарная линия	цвет из политры	обычный	true	false	true	false	50	false	false	true
+Microsoft YaHei	36	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Lucida Sans Unicode	11	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+Candara	32	цвет из политры	жирная линия	цвет из политры	полужирный курсив	true	false	true	false	100	false	true	false
+Rockwell	88	цвет из политры	одинарная линия	нет	обычный	false	false	false	false	0	true	false	true
+Book Antiqua	88	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	true
+Calibri Light	44	цвет из политры	жирная линия	цвет из политры	курсив	true	false	false	false	0	true	false	false
+MS PGothic	88	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Bookman Old Style	66	стандартный	жирная линия	цвет из политры	полужирный	true	false	true	false	50	false	true	false
+Microsoft JhengHei	12	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	false	false	true
+TW Cen MT	36	цвет из политры	нет	нет	обычный	false	false	false	false	0	false	true	true
+Segoe UI	44	стандартный	нет	нет	обычный	false	true	true	false	100	false	true	true
+Century	66	цвет из политры	жирная линия	нет	курсив	false	true	true	false	100	false	true	true
+Cambria	60	цвет из политры	одинарная линия	стандартный	курсив	false	false	false	false	0	false	true	true
+Times New Roman	16	стандартный	жирная линия	цвет из политры	курсив	false	false	true	false	100	false	true	false
+Tahoma	44	цвет из политры	нет	нет	обычный	false	true	true	false	100	true	false	false
+Book Antiqua	8	цвет из политры	жирная линия	стандартный	полужирный	false	true	false	false	0	true	false	true
+Consolas	20	стандартный	нет	нет	полужирный	false	true	true	false	50	false	false	true
+Microsoft JhengHei	24	стандартный	жирная пунктирная линия	стандартный	полужирный	false	true	false	false	0	true	false	true
+TW Cen MT	54	стандартный	пунктирная линия	цвет из политры	обычный	true	false	true	false	50	false	true	false
+Trebuchet MS	9	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	true	false	50	false	false	false
+Corbel	96	цвет из политры	жирная линия	цвет из политры	курсив	true	false	true	false	100	false	false	false
+Candara	54	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	100	true	false	true
+SimSun	9	цвет из политры	двойная линия	цвет из политры	курсив	false	true	false	false	0	false	false	true
+Tahoma	88	цвет из политры	двойная линия	стандартный	полужирный курсив	true	false	true	false	100	false	true	false
+Corbel	48	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	true
+Rockwell	80	стандартный	нет	нет	обычный	false	true	false	false	0	false	true	false
+Georgia	88	цвет из политры	одинарная линия	стандартный	курсив	false	false	false	false	0	false	true	true
+Times	11	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	false
+Lucida Sans Unicode	72	цвет из политры	нет	нет	обычный	false	true	true	false	100	false	false	true
+Bookman Old Style	28	стандартный	одинарная линия	цвет из политры	курсив	false	true	true	false	50	false	false	true
+Corbel	10.5	цвет из политры	двойная линия	стандартный	курсив	false	false	true	false	100	true	false	true
+MS PGothic	40	цвет из политры	одинарная линия	цвет из политры	обычный	false	false	false	false	0	false	false	true
+TH SarabunPSK	88	цвет из политры	жирная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	false
+Lucida Sans	54	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	false	true	false	50	true	false	false
+Constantia	44	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	true	false	true	false	100	false	true	false
+Garamond	10	цвет из политры	пунктирная линия	нет	обычный	false	true	true	false	50	false	true	false
+Gill Sans MT	16	стандартный	пунктирная линия	нет	курсив	false	false	true	false	100	false	true	true
+Lucida Sans	80	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	false
+Franklin Gothic Book	48	стандартный	пунктирная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	true	true
+Tahoma	66	цвет из политры	жирная линия	стандартный	курсив	false	true	true	false	50	false	false	true
+Lucida Sans	48	цвет из политры	пунктирная линия	нет	полужирный курсив	false	false	true	false	100	false	true	true
+Lucida Sans	20	цвет из политры	жирная линия	стандартный	полужирный	true	false	true	false	100	false	true	false
+Arial Black	36	цвет из политры	одинарная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	false
+Microsoft JhengHei	8	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	false
+TH SarabunPSK	48	цвет из политры	жирная линия	стандартный	курсив	false	true	true	false	50	true	false	true
+Constantia	66	цвет из политры	нет	нет	курсив	false	true	true	false	50	true	false	false
+TH SarabunPSK	66	цвет из политры	пунктирная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+Times New Roman	12	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	50	true	false	false
+Segoe UI Light	14	стандартный	жирная линия	нет	курсив	true	false	true	false	50	false	true	true
+Verdana	18	цвет из политры	пунктирная линия	нет	курсив	false	true	false	false	0	false	false	true
+Georgia	96	стандартный	двойная линия	цвет из политры	полужирный курсив	false	false	true	false	100	false	false	false
+MS PGothic	20	стандартный	двойная линия	стандартный	обычный	false	false	true	false	50	false	true	false
+Century	8	стандартный	нет	нет	курсив	false	true	true	false	50	false	true	true
+Lucida Sans	9	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	false	false
+Microsoft JhengHei	9	цвет из политры	пунктирная линия	цвет из политры	курсив	false	true	true	false	50	false	true	false
+Consolas	88	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	true	false	false	false	0	false	false	true
+Century Gothic	44	стандартный	жирная пунктирная линия	нет	курсив	false	true	false	false	0	false	true	true
+Garamond	54	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	100	false	true	false
+Calibri Light	60	стандартный	двойная линия	цвет из политры	курсив	true	false	true	false	50	true	false	false
+Lucida Sans	11	цвет из политры	пунктирная линия	цвет из политры	обычный	false	false	true	false	100	false	true	false
+Franklin Gothic Book	8	цвет из политры	двойная линия	стандартный	полужирный курсив	false	false	false	false	0	false	false	false
+Franklin Gothic Medium	11	стандартный	жирная пунктирная линия	нет	полужирный	false	true	false	false	0	false	true	true
+Consolas	36	цвет из политры	нет	нет	обычный	true	false	false	false	0	false	true	true
+Segoe UI	32	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	false	false	true	false	50	false	true	false
+Lucida Sans Unicode	96	цвет из политры	нет	нет	полужирный	false	true	false	false	0	false	true	true
+Times New Roman	80	цвет из политры	пунктирная линия	нет	обычный	false	true	true	false	100	false	true	true
+Malgun Gothic	36	цвет из политры	жирная линия	стандартный	обычный	false	true	true	false	100	false	false	false
+Candara	80	стандартный	нет	нет	обычный	true	false	false	false	0	false	true	false
+TW Cen MT	20	стандартный	одинарная линия	цвет из политры	курсив	false	false	true	false	50	true	false	false
+Gautami	40	стандартный	жирная пунктирная линия	стандартный	курсив	true	false	false	false	0	true	false	true
+Candara	20	стандартный	нет	нет	полужирный курсив	true	false	false	false	0	true	false	true
+Bookman Old Style	72	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	false	true
+Century Gothic	12	цвет из политры	одинарная линия	нет	курсив	false	true	false	false	0	false	true	false
+SimSun-ExtB	54	стандартный	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+Malgun Gothic	12	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	true
+Courier New	44	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	true	true	false	50	false	true	true
+Segoe UI Light	36	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	true	true	false	50	true	false	false
+Franklin Gothic Book	24	цвет из политры	нет	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Segoe UI Light	20	стандартный	жирная линия	нет	обычный	false	true	true	false	50	false	false	true
+Times New Roman	72	цвет из политры	пунктирная линия	стандартный	курсив	false	true	false	false	0	true	false	true
+Gill Sans MT	9	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	true
+Georgia	12	стандартный	жирная линия	стандартный	обычный	false	true	true	false	100	false	false	true
+Gill Sans MT	28	стандартный	одинарная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+Century Gothic	88	стандартный	пунктирная линия	нет	обычный	true	false	false	false	0	false	false	false
+Lucida Sans Unicode	54	стандартный	жирная пунктирная линия	стандартный	полужирный	true	false	true	false	50	false	true	true
+Cambria	28	стандартный	жирная линия	стандартный	курсив	true	false	true	false	50	false	false	false
+Cambria	18	стандартный	жирная пунктирная линия	стандартный	обычный	true	false	true	false	50	false	true	true
+Cambria	54	стандартный	жирная пунктирная линия	стандартный	обычный	true	false	true	false	50	true	false	false
+Lucida Sans Unicode	60	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	false
+Book Antiqua	80	стандартный	жирная линия	нет	обычный	false	true	true	false	50	true	false	true
+SimSun-ExtB	9	стандартный	двойная линия	стандартный	полужирный курсив	true	false	false	false	0	true	false	true
+Century	10	цвет из политры	одинарная линия	нет	обычный	true	false	true	false	50	false	true	false
+Times New Roman	24	стандартный	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	true
+Rockwell	66	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	false	true	false	50	true	false	true
+Lucida Sans	44	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+Franklin Gothic Medium	54	стандартный	двойная линия	цвет из политры	курсив	true	false	false	false	0	false	true	true
+SimSun	20	цвет из политры	пунктирная линия	нет	курсив	false	true	true	false	100	false	true	false
+Calibri	18	цвет из политры	нет	нет	обычный	true	false	true	false	50	true	false	true
+Trebuchet MS	32	стандартный	одинарная линия	стандартный	полужирный	false	true	true	false	50	false	true	true
+Century	40	цвет из политры	пунктирная линия	нет	курсив	false	false	false	false	0	true	false	true
+Arial	60	цвет из политры	одинарная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+SimSun-ExtB	14	стандартный	пунктирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	false	false
+Garamond	96	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	true
+Times New Roman	14	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	false	true	true	false	100	false	true	false
+Malgun Gothic	96	цвет из политры	двойная линия	нет	полужирный	false	false	false	false	0	false	true	true
+Corbel	20	цвет из политры	жирная пунктирная линия	стандартный	обычный	true	false	true	false	100	false	true	true
+Segoe UI Light	28	стандартный	одинарная линия	стандартный	обычный	true	false	true	false	50	false	false	false
+Segoe UI Light	40	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	false	true	true	false	50	false	true	false
+Corbel	8	стандартный	нет	нет	полужирный курсив	false	false	true	false	50	false	true	true
+Gill Sans MT	12	стандартный	жирная пунктирная линия	стандартный	полужирный	false	false	true	false	100	false	false	true
+Rockwell	54	цвет из политры	жирная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	true	false
+Gautami	18	стандартный	жирная пунктирная линия	нет	обычный	false	true	false	false	0	false	true	false
+Courier New	40	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	false
+TW Cen MT	18	цвет из политры	жирная линия	нет	обычный	false	true	true	false	100	true	false	true
+Cambria	16	цвет из политры	двойная линия	цвет из политры	обычный	false	false	true	false	50	false	false	false
+Microsoft JhengHei	66	стандартный	двойная линия	стандартный	обычный	false	true	true	false	100	true	false	true
+Garamond	18	цвет из политры	двойная линия	цвет из политры	обычный	false	true	true	false	50	false	true	true
+SimSun-ExtB	32	цвет из политры	жирная линия	стандартный	полужирный	false	true	true	false	100	false	false	false
+Century	12	цвет из политры	одинарная линия	цвет из политры	обычный	false	true	false	false	0	false	false	false
+Candara	10.5	цвет из политры	двойная линия	нет	обычный	true	false	true	false	100	false	true	true
+Courier New	48	цвет из политры	пунктирная линия	стандартный	полужирный	false	false	true	false	100	true	false	false
+Rockwell	10	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+Courier New	80	цвет из политры	двойная линия	стандартный	полужирный	false	true	true	false	50	false	false	true
+Rockwell	8	цвет из политры	нет	нет	полужирный	false	true	true	false	100	true	false	true
+Consolas	18	цвет из политры	жирная линия	нет	курсив	false	false	true	false	50	false	true	true
+MS PGothic	9	стандартный	жирная пунктирная линия	нет	обычный	false	false	false	false	0	false	true	false
+Times	12	стандартный	двойная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Garamond	32	стандартный	жирная линия	нет	полужирный курсив	false	true	false	false	0	true	false	true
+Century Gothic	72	стандартный	пунктирная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Calibri Light	12	цвет из политры	пунктирная линия	нет	обычный	false	true	false	false	0	false	true	true
+Sylfaen	44	стандартный	одинарная линия	нет	полужирный	false	true	false	false	0	false	true	false
+Arial	11	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	false	true	false	100	false	false	true
+Century Gothic	9	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	50	false	true	true
+TW Cen MT	96	стандартный	жирная линия	цвет из политры	обычный	false	true	true	false	50	true	false	false
+Cambria	48	цвет из политры	нет	нет	обычный	true	false	true	false	50	true	false	true
+TH SarabunPSK	24	цвет из политры	жирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	false
+Calibri Light	28	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+MS PGothic	16	цвет из политры	двойная линия	цвет из политры	обычный	false	true	false	false	0	false	true	false
+Century Schoolbook	14	стандартный	пунктирная линия	нет	курсив	true	false	true	false	100	false	false	true
+Trebuchet MS	14	стандартный	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	50	true	false	true
+Georgia	48	стандартный	жирная пунктирная линия	нет	курсив	false	true	true	false	50	false	true	false
+Comic Sans MS	44	стандартный	одинарная линия	нет	курсив	false	true	true	false	100	false	false	true
+Lucida Sans	10.5	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	false	false	false	0	false	false	true
+Gautami	10	стандартный	пунктирная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	false
+Calibri	44	стандартный	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Arial	54	стандартный	жирная линия	цвет из политры	обычный	false	true	false	false	0	false	true	false
+Malgun Gothic	80	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	false	true	false	50	false	true	false
+Calibri	60	стандартный	двойная линия	стандартный	полужирный курсив	true	false	true	false	100	false	false	false
+Cambria	80	стандартный	жирная пунктирная линия	стандартный	полужирный	true	false	true	false	100	false	false	false
+Verdana	16	цвет из политры	нет	нет	полужирный курсив	true	false	false	false	0	false	true	false
+Gautami	16	стандартный	пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+Sylfaen	16	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	true
+MPingLiU-ExtB	12	стандартный	двойная линия	стандартный	курсив	false	true	true	false	50	true	false	false
+Lucida Sans Unicode	10.5	цвет из политры	пунктирная линия	нет	полужирный	false	false	false	false	0	false	true	true
+Microsoft YaHei	80	стандартный	пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	false	false
+Candara	14	цвет из политры	пунктирная линия	нет	полужирный	true	false	true	false	100	false	true	true
+Corbel	72	стандартный	жирная пунктирная линия	стандартный	обычный	false	true	true	false	100	false	true	false
+Arial Black	32	цвет из политры	жирная линия	цвет из политры	обычный	false	false	true	false	50	true	false	true
+Comic Sans MS	24	стандартный	пунктирная линия	нет	курсив	false	false	true	false	50	true	false	false
+MS PGothic	10	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	false	true	false	100	false	false	true
+Rockwell	24	цвет из политры	жирная пунктирная линия	стандартный	обычный	false	true	true	false	50	false	false	true
+Arial Black	28	стандартный	пунктирная линия	цвет из политры	курсив	false	false	false	false	0	false	true	true
+Gautami	9	стандартный	жирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	false
+Franklin Gothic Book	40	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Corbel	88	стандартный	одинарная линия	стандартный	полужирный курсив	true	false	true	false	50	true	false	true
+Gill Sans MT	54	цвет из политры	пунктирная линия	цвет из политры	курсив	false	true	true	false	100	false	false	true
+Arial	18	цвет из политры	двойная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+MS Gothic	24	цвет из политры	одинарная линия	нет	курсив	true	false	false	false	0	false	true	false
+TW Cen MT	11	стандартный	пунктирная линия	нет	полужирный курсив	false	true	true	false	50	false	true	true
+MPingLiU-ExtB	40	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	true	false	50	false	true	false
+Microsoft JhengHei	80	цвет из политры	двойная линия	нет	полужирный	true	false	false	false	0	false	false	true
+Arial Black	88	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+Franklin Gothic Medium	44	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	true
+Arial	48	цвет из политры	пунктирная линия	нет	полужирный курсив	true	false	false	false	0	false	false	false
+Segoe UI	8	цвет из политры	нет	нет	полужирный курсив	false	false	true	false	100	false	false	false
+Microsoft JhengHei	96	цвет из политры	нет	нет	полужирный	true	false	true	false	50	false	true	true
+Gautami	44	стандартный	пунктирная линия	стандартный	обычный	false	true	true	false	100	true	false	true
+Arial Black	54	цвет из политры	пунктирная линия	нет	курсив	true	false	false	false	0	true	false	false
+Tahoma	9	цвет из политры	пунктирная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+MPingLiU-ExtB	72	цвет из политры	жирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	true
+Bookman Old Style	14	цвет из политры	двойная линия	стандартный	курсив	true	false	true	false	100	false	true	false
+Trebuchet MS	66	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	false	false	false	0	false	false	true
+Century Gothic	80	стандартный	жирная линия	нет	полужирный курсив	false	false	false	false	0	false	true	true
+Century	32	стандартный	нет	нет	курсив	false	true	false	false	0	false	true	true
+Constantia	11	цвет из политры	двойная линия	нет	курсив	true	false	true	false	50	false	true	true
+Georgia	54	цвет из политры	жирная линия	стандартный	полужирный	false	false	false	false	0	false	false	true
+Century Schoolbook	80	стандартный	пунктирная линия	стандартный	обычный	false	true	false	false	0	false	false	true
+Book Antiqua	24	стандартный	пунктирная линия	нет	полужирный	false	true	true	false	100	false	true	false
+Malgun Gothic	66	стандартный	жирная линия	цвет из политры	обычный	true	false	true	false	100	false	true	true
+Malgun Gothic	72	стандартный	жирная пунктирная линия	нет	полужирный	false	false	false	false	0	true	false	false
+Comic Sans MS	72	стандартный	жирная линия	стандартный	курсив	false	true	true	false	50	false	false	true
+Bookman Old Style	12	стандартный	жирная пунктирная линия	нет	полужирный	true	false	true	false	100	true	false	true
+TW Cen MT	66	стандартный	одинарная линия	стандартный	курсив	false	true	true	false	100	true	false	false
+Comic Sans MS	20	стандартный	жирная линия	нет	обычный	false	false	true	false	50	false	true	false
+SimSun-ExtB	10	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Malgun Gothic	60	цвет из политры	жирная линия	нет	полужирный	true	false	true	false	100	true	false	true
+Comic Sans MS	36	цвет из политры	жирная линия	стандартный	полужирный	false	true	true	false	100	false	true	true
+Cambria	96	цвет из политры	двойная линия	цвет из политры	обычный	true	false	false	false	0	false	true	true
+Verdana	44	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	true
+Calibri	54	цвет из политры	жирная пунктирная линия	нет	полужирный	true	false	true	false	100	false	true	false
+Arial	96	цвет из политры	одинарная линия	нет	полужирный курсив	false	true	false	false	0	true	false	true
+Garamond	10.5	цвет из политры	жирная пунктирная линия	стандартный	полужирный	true	false	true	false	50	true	false	true
+Century Gothic	10.5	стандартный	одинарная линия	нет	обычный	false	true	true	false	50	false	true	true
+Sylfaen	72	стандартный	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	false
+Arial	10	стандартный	двойная линия	цвет из политры	полужирный	true	false	true	false	50	true	false	true
+Segoe UI Light	8	цвет из политры	одинарная линия	цвет из политры	обычный	false	true	true	false	100	false	true	true
+Century Gothic	32	стандартный	двойная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	true
+Georgia	60	стандартный	жирная пунктирная линия	цвет из политры	обычный	true	false	true	false	100	false	true	true
+Consolas	24	стандартный	нет	нет	полужирный	true	false	false	false	0	false	true	false
+Segoe UI	36	стандартный	двойная линия	стандартный	курсив	true	false	true	false	50	true	false	true
+Franklin Gothic Medium	20	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	100	false	false	true
+Times	66	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	false	true	false	100	false	false	true
+Franklin Gothic Medium	60	стандартный	двойная линия	нет	курсив	true	false	false	false	0	false	true	true
+Segoe UI	18	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	true
+SimSun	28	цвет из политры	жирная линия	стандартный	полужирный	false	false	true	false	50	false	true	false
+Bookman Old Style	20	цвет из политры	жирная линия	стандартный	обычный	true	false	false	false	0	false	true	false
+Trebuchet MS	18	стандартный	жирная линия	нет	курсив	false	false	false	false	0	true	false	true
+MS PGothic	44	цвет из политры	одинарная линия	стандартный	полужирный курсив	true	false	true	false	100	false	false	false
+TW Cen MT	28	цвет из политры	пунктирная линия	стандартный	обычный	true	false	true	false	100	false	false	true
+Trebuchet MS	72	стандартный	двойная линия	цвет из политры	курсив	false	false	true	false	50	false	true	false
+TH SarabunPSK	20	стандартный	одинарная линия	стандартный	обычный	true	false	true	false	100	false	true	true
+Courier New	8	цвет из политры	нет	нет	полужирный курсив	false	true	true	false	100	true	false	false
+Tahoma	16	цвет из политры	двойная линия	нет	полужирный	true	false	false	false	0	false	true	false
+Courier New	10.5	стандартный	одинарная линия	нет	полужирный курсив	true	false	false	false	0	false	true	true
+Trebuchet MS	10.5	цвет из политры	двойная линия	стандартный	полужирный	false	true	false	false	0	false	false	true
+SimSun-ExtB	36	стандартный	одинарная линия	цвет из политры	обычный	false	false	true	false	100	false	false	true
+Corbel	60	цвет из политры	пунктирная линия	цвет из политры	обычный	true	false	true	false	50	false	true	false
+Book Antiqua	20	стандартный	одинарная линия	нет	обычный	true	false	true	false	50	false	true	true
+SimSun	88	стандартный	жирная пунктирная линия	нет	обычный	true	false	true	false	50	false	true	true
+Comic Sans MS	10	цвет из политры	нет	нет	обычный	false	true	true	false	100	false	true	true
+TW Cen MT	40	цвет из политры	жирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	true
+Century	20	стандартный	двойная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+Microsoft YaHei	88	цвет из политры	двойная линия	цвет из политры	курсив	false	true	true	false	50	false	true	false
+Rockwell	20	цвет из политры	одинарная линия	цвет из политры	обычный	false	true	true	false	50	false	true	true
+Gautami	10.5	стандартный	жирная линия	нет	полужирный	false	true	true	false	100	true	false	true
+Malgun Gothic	44	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	50	true	false	false
+SimSun-ExtB	80	стандартный	жирная линия	стандартный	полужирный курсив	false	false	true	false	50	false	true	true
+Constantia	72	цвет из политры	одинарная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Gautami	36	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+Microsoft JhengHei	48	стандартный	пунктирная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Book Antiqua	28	стандартный	одинарная линия	стандартный	полужирный	true	false	false	false	0	false	true	true
+SimSun	24	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Garamond	48	стандартный	жирная линия	нет	полужирный курсив	false	false	true	false	50	false	true	true
+Franklin Gothic Medium	36	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	false	true	false	50	true	false	true
+Times New Roman	10.5	стандартный	жирная линия	стандартный	курсив	false	true	true	false	50	true	false	false
+Calibri	36	цвет из политры	жирная линия	цвет из политры	полужирный	false	false	true	false	100	true	false	false
+TH SarabunPSK	40	цвет из политры	пунктирная линия	стандартный	обычный	false	false	true	false	50	false	false	true
+Cambria	10.5	цвет из политры	жирная линия	нет	полужирный курсив	true	false	false	false	0	false	false	false
+MS Gothic	66	стандартный	одинарная линия	цвет из политры	курсив	true	false	true	false	100	false	false	true
+Rockwell	72	цвет из политры	одинарная линия	стандартный	курсив	false	true	false	false	0	false	false	false
+Consolas	12	цвет из политры	одинарная линия	нет	курсив	false	false	false	false	0	false	false	true
+SimSun-ExtB	11	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	true
+Lucida Sans	88	цвет из политры	одинарная линия	стандартный	обычный	false	true	false	false	0	true	false	false
+Garamond	44	стандартный	пунктирная линия	цвет из политры	полужирный	false	false	true	false	50	true	false	true
+Corbel	44	цвет из политры	двойная линия	нет	полужирный	false	false	false	false	0	false	false	false
+Century	28	стандартный	жирная пунктирная линия	цвет из политры	полужирный	true	false	true	false	50	false	false	true
+Gill Sans MT	72	стандартный	пунктирная линия	нет	обычный	false	false	false	false	0	false	true	false
+Malgun Gothic	32	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Microsoft YaHei	8	стандартный	жирная линия	стандартный	обычный	false	false	true	false	100	false	true	true
+Malgun Gothic	14	стандартный	нет	нет	полужирный курсив	false	false	false	false	0	false	true	false
+Century	10.5	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	100	false	false	false
+Consolas	9	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	true
+SimSun	44	цвет из политры	жирная пунктирная линия	нет	полужирный курсив	true	false	true	false	50	false	true	true
+Segoe UI Light	32	цвет из политры	двойная линия	нет	курсив	true	false	false	false	0	true	false	false
+Malgun Gothic	28	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	50	false	false	true
+Segoe UI Light	48	стандартный	двойная линия	стандартный	обычный	false	true	true	false	50	false	false	true
+Franklin Gothic Medium	9	стандартный	пунктирная линия	цвет из политры	полужирный	false	true	true	false	50	true	false	false
+TW Cen MT	44	цвет из политры	двойная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Lucida Sans Unicode	12	цвет из политры	жирная линия	стандартный	полужирный курсив	true	false	true	false	50	false	false	true
+Lucida Sans	72	цвет из политры	одинарная линия	стандартный	обычный	false	false	true	false	100	false	true	false
+Microsoft YaHei	12	цвет из политры	жирная линия	нет	полужирный курсив	false	true	true	false	50	false	false	true
+Verdana	32	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	false	false	0	false	false	true
+Gill Sans MT	48	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	100	false	true	true
+Arial Black	40	стандартный	одинарная линия	стандартный	обычный	false	false	false	false	0	false	true	false
+Arial	16	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+TH SarabunPSK	96	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	false
+Times	40	цвет из политры	пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	false	false	false
+Century Gothic	11	цвет из политры	двойная линия	стандартный	курсив	true	false	true	false	100	false	false	false
+Verdana	96	стандартный	двойная линия	нет	полужирный курсив	true	false	false	false	0	true	false	true
+Microsoft JhengHei	44	стандартный	жирная пунктирная линия	нет	курсив	false	false	true	false	100	false	true	false
+Consolas	14	цвет из политры	пунктирная линия	нет	полужирный	false	true	false	false	0	false	true	false
+Calibri	28	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	true	true
+Bookman Old Style	96	стандартный	двойная линия	нет	обычный	true	false	true	false	100	false	false	true
+Arial	24	стандартный	пунктирная линия	стандартный	полужирный	true	false	true	false	50	false	true	true
+Bookman Old Style	36	стандартный	одинарная линия	нет	обычный	false	false	true	false	100	true	false	true
+Century Schoolbook	11	цвет из политры	жирная пунктирная линия	нет	обычный	false	false	true	false	100	false	true	false
+Franklin Gothic Medium	8	цвет из политры	двойная линия	нет	полужирный курсив	false	true	true	false	50	false	true	false
+Arial	12	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	false	false	false	0	false	true	true
+Century	14	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	true
+Century Schoolbook	9	стандартный	пунктирная линия	цвет из политры	полужирный	true	false	true	false	100	false	false	true
+Century Schoolbook	66	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	true
+Microsoft YaHei	32	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	false
+TW Cen MT	32	цвет из политры	нет	нет	полужирный	false	false	true	false	50	false	false	false
+Microsoft JhengHei	14	цвет из политры	пунктирная линия	нет	курсив	false	true	false	false	0	false	true	true
+Arial	9	стандартный	двойная линия	стандартный	полужирный курсив	false	false	false	false	0	false	true	true
+MS Gothic	8	цвет из политры	двойная линия	цвет из политры	обычный	false	true	true	false	100	true	false	true
+Cambria	66	стандартный	одинарная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	true	true
+Rockwell	32	цвет из политры	двойная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	false
+Arial Black	14	цвет из политры	одинарная линия	нет	полужирный	false	true	true	false	50	false	true	true
+Malgun Gothic	9	стандартный	двойная линия	нет	полужирный курсив	false	true	false	false	0	false	false	false
+Times	72	стандартный	жирная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+Lucida Sans	14	цвет из политры	одинарная линия	стандартный	курсив	false	true	true	false	100	false	true	true
+SimSun	72	стандартный	двойная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+SimSun	66	цвет из политры	пунктирная линия	нет	полужирный	false	false	false	false	0	false	true	true
+Century Schoolbook	10.5	цвет из политры	пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	false	true	false
+Gautami	24	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	true	false	false	0	false	false	false
+Tahoma	54	цвет из политры	пунктирная линия	нет	курсив	false	true	false	false	0	false	true	true
+Microsoft YaHei	24	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	false
+Constantia	80	цвет из политры	одинарная линия	цвет из политры	курсив	false	true	true	false	100	false	true	true
+Microsoft YaHei	28	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	50	false	true	false
+TH SarabunPSK	18	цвет из политры	нет	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Microsoft JhengHei	72	стандартный	двойная линия	нет	курсив	true	false	false	false	0	true	false	false
+Constantia	10	стандартный	пунктирная линия	стандартный	полужирный	false	true	true	false	50	false	true	false
+Trebuchet MS	16	стандартный	двойная линия	нет	полужирный	false	true	false	false	0	false	true	false
+Segoe UI	11	цвет из политры	двойная линия	стандартный	курсив	true	false	true	false	100	true	false	true
+Arial	36	цвет из политры	одинарная линия	стандартный	курсив	false	false	true	false	100	true	false	false
+Courier New	54	стандартный	жирная линия	нет	полужирный	false	true	false	false	0	false	true	false
+Gautami	80	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	true	false	false	false	0	false	true	false
+Calibri Light	88	цвет из политры	жирная линия	цвет из политры	полужирный	false	true	false	false	0	false	true	true
+Segoe UI	24	цвет из политры	одинарная линия	стандартный	полужирный	true	false	false	false	0	false	true	false
+Candara	36	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	false	false	false	0	false	true	true
+MS Gothic	40	цвет из политры	двойная линия	нет	курсив	true	false	true	false	50	false	true	true
+Times New Roman	48	цвет из политры	одинарная линия	нет	полужирный	false	true	false	false	0	false	false	true
+Franklin Gothic Book	16	цвет из политры	двойная линия	стандартный	курсив	false	false	true	false	100	false	true	false
+Lucida Sans Unicode	36	цвет из политры	жирная линия	цвет из политры	обычный	false	true	true	false	50	false	true	true
+Courier New	88	стандартный	нет	нет	обычный	true	false	false	false	0	true	false	true
+Calibri Light	10.5	цвет из политры	двойная линия	нет	полужирный	false	true	true	false	100	false	true	false
+SimSun-ExtB	66	цвет из политры	одинарная линия	стандартный	полужирный курсив	false	false	true	false	100	false	false	false
+Franklin Gothic Medium	10.5	стандартный	жирная линия	стандартный	полужирный	false	true	false	false	0	false	false	true
+Times New Roman	11	цвет из политры	жирная линия	нет	полужирный курсив	false	true	false	false	0	false	true	true
+Book Antiqua	40	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Franklin Gothic Medium	72	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	100	false	false	true
+Sylfaen	24	цвет из политры	пунктирная линия	нет	полужирный	false	false	true	false	50	true	false	true
+Gautami	28	стандартный	нет	нет	обычный	false	true	true	false	50	false	true	true
+TH SarabunPSK	36	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	true
+MPingLiU-ExtB	16	стандартный	нет	нет	полужирный	true	false	true	false	100	false	false	true
+Segoe UI Light	96	стандартный	нет	нет	полужирный курсив	false	true	false	false	0	false	true	false
+Arial Black	11	стандартный	жирная пунктирная линия	нет	курсив	true	false	true	false	100	true	false	true
+MS PGothic	60	стандартный	одинарная линия	нет	курсив	false	true	false	false	0	true	false	false
+Microsoft YaHei	96	цвет из политры	одинарная линия	стандартный	обычный	true	false	true	false	50	true	false	false
+Century	88	стандартный	одинарная линия	нет	курсив	false	false	false	false	0	false	true	true
+Tahoma	8	стандартный	двойная линия	стандартный	полужирный	false	true	true	false	50	true	false	false
+Lucida Sans Unicode	16	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	false	true	false	100	true	false	false
+MS Gothic	28	цвет из политры	одинарная линия	стандартный	полужирный	false	false	true	false	100	false	true	false
+Franklin Gothic Book	20	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	true	false	true	false	50	false	true	false
+Times	48	стандартный	жирная линия	стандартный	обычный	false	true	true	false	50	true	false	true
+Microsoft YaHei	10.5	цвет из политры	двойная линия	цвет из политры	курсив	false	true	true	false	50	false	true	true
+Tahoma	96	стандартный	пунктирная линия	нет	курсив	false	true	false	false	0	true	false	false
+Verdana	40	цвет из политры	нет	нет	курсив	true	false	false	false	0	false	false	false
+Lucida Sans	60	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	false	false	0	true	false	false
+Consolas	54	цвет из политры	одинарная линия	нет	полужирный	true	false	true	false	50	false	true	false
+Verdana	12	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	false	false	false	0	false	true	true
+Consolas	96	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Verdana	60	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	true
+Microsoft JhengHei	88	стандартный	жирная линия	цвет из политры	курсив	true	false	true	false	50	false	false	false
+Franklin Gothic Book	96	стандартный	жирная линия	стандартный	обычный	false	false	true	false	50	false	false	true
+Segoe UI Light	11	стандартный	нет	нет	обычный	true	false	false	false	0	false	false	true
+SimSun	8	стандартный	двойная линия	стандартный	полужирный курсив	true	false	false	false	0	true	false	true
+Candara	44	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	false	true	false	50	false	true	true
+Lucida Sans	18	стандартный	пунктирная линия	нет	курсив	true	false	true	false	50	false	true	false
+Calibri Light	11	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	50	false	true	true
+Century Schoolbook	72	цвет из политры	пунктирная линия	цвет из политры	курсив	false	true	true	false	50	false	true	false
+Corbel	80	стандартный	жирная линия	стандартный	курсив	false	false	true	false	100	false	true	true
+Calibri	88	стандартный	жирная пунктирная линия	стандартный	курсив	true	false	false	false	0	false	true	true
+Calibri Light	18	стандартный	жирная пунктирная линия	нет	полужирный	false	true	true	false	50	false	true	true
+Arial	40	стандартный	жирная пунктирная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+Comic Sans MS	10.5	стандартный	жирная пунктирная линия	нет	полужирный	false	true	false	false	0	false	true	true
+Courier New	36	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	100	false	true	false
+MS Gothic	80	цвет из политры	жирная линия	стандартный	полужирный курсив	true	false	true	false	50	false	true	true
+Book Antiqua	32	стандартный	одинарная линия	нет	обычный	true	false	false	false	0	false	false	true
+Consolas	32	цвет из политры	жирная линия	стандартный	обычный	false	true	true	false	100	false	false	false
+TH SarabunPSK	14	цвет из политры	одинарная линия	нет	обычный	false	true	false	false	0	false	true	false
+Constantia	24	цвет из политры	жирная линия	стандартный	полужирный	false	true	true	false	50	false	true	true
+Malgun Gothic	40	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	50	false	true	true
+Arial Black	16	цвет из политры	одинарная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	false
+Times	10.5	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	100	false	false	true
+Garamond	40	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	false
+Trebuchet MS	80	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	false	false
+SimSun-ExtB	48	цвет из политры	пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	true	false	false
+Microsoft YaHei	9	стандартный	жирная пунктирная линия	нет	полужирный	false	true	true	false	100	false	true	true
+MPingLiU-ExtB	14	цвет из политры	пунктирная линия	нет	обычный	false	false	true	false	100	true	false	false
+Courier New	16	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	true	false	true
+Book Antiqua	12	цвет из политры	пунктирная линия	нет	полужирный	false	true	false	false	0	true	false	false
+Arial Black	60	цвет из политры	нет	нет	обычный	false	true	true	false	50	false	true	true
+Cambria	36	стандартный	жирная пунктирная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+Corbel	66	стандартный	жирная линия	стандартный	полужирный	false	true	true	false	50	true	false	false
+MS Gothic	20	цвет из политры	одинарная линия	стандартный	полужирный	false	false	true	false	100	true	false	false
+Lucida Sans	24	стандартный	двойная линия	стандартный	обычный	false	true	false	false	0	false	false	false
+Cambria	44	цвет из политры	двойная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Candara	10	стандартный	жирная линия	стандартный	курсив	false	false	true	false	100	false	true	true
+Century	72	цвет из политры	пунктирная линия	цвет из политры	курсив	true	false	true	false	100	false	false	true
+Arial Black	10.5	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	true
+Garamond	16	стандартный	пунктирная линия	нет	курсив	false	true	false	false	0	false	true	false
+Sylfaen	80	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	true
+Century Gothic	28	стандартный	двойная линия	нет	обычный	true	false	false	false	0	true	false	true
+TH SarabunPSK	10.5	цвет из политры	одинарная линия	нет	полужирный курсив	false	true	false	false	0	false	true	true
+Franklin Gothic Book	12	стандартный	одинарная линия	стандартный	обычный	false	false	true	false	100	true	false	true
+Lucida Sans	12	цвет из политры	нет	нет	полужирный курсив	true	false	true	false	100	false	true	true
+Garamond	66	стандартный	одинарная линия	нет	курсив	true	false	true	false	100	false	true	true
+Comic Sans MS	14	стандартный	жирная линия	стандартный	полужирный курсив	false	false	true	false	50	false	false	false
+Times New Roman	66	цвет из политры	жирная пунктирная линия	нет	полужирный	true	false	false	false	0	false	true	false
+Trebuchet MS	88	цвет из политры	жирная линия	цвет из политры	обычный	true	false	false	false	0	true	false	false
+Trebuchet MS	10	цвет из политры	двойная линия	стандартный	полужирный	false	false	true	false	100	false	true	true
+Microsoft YaHei	72	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	false	true	false	100	false	true	true
+Constantia	48	цвет из политры	жирная пунктирная линия	нет	курсив	false	true	false	false	0	true	false	true
+Trebuchet MS	12	стандартный	двойная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+MPingLiU-ExtB	88	стандартный	двойная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	false
+Arial	88	стандартный	одинарная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	true
+Gautami	32	стандартный	жирная линия	стандартный	полужирный	false	true	true	false	50	false	true	true
+Trebuchet MS	60	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный	true	false	true	false	100	false	true	false
+Trebuchet MS	20	стандартный	нет	нет	курсив	false	true	true	false	50	false	true	true
+Century Gothic	40	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+TW Cen MT	80	стандартный	нет	нет	курсив	false	true	true	false	50	false	true	false
+Century	54	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	false
+Century Schoolbook	10	цвет из политры	нет	нет	обычный	false	true	false	false	0	true	false	false
+Lucida Sans Unicode	24	цвет из политры	жирная линия	стандартный	обычный	false	false	true	false	50	true	false	false
+SimSun-ExtB	10.5	стандартный	одинарная линия	нет	полужирный курсив	false	true	true	false	100	false	false	true
+Comic Sans MS	48	стандартный	жирная линия	стандартный	курсив	true	false	true	false	100	true	false	false
+Candara	72	цвет из политры	одинарная линия	стандартный	обычный	false	true	true	false	100	false	true	true
+MS Gothic	44	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	false	false	0	true	false	false
+Courier New	72	цвет из политры	пунктирная линия	цвет из политры	полужирный курсив	true	false	true	false	100	false	true	true
+Book Antiqua	48	стандартный	двойная линия	стандартный	курсив	false	true	true	false	50	false	true	false
+Tahoma	10.5	цвет из политры	двойная линия	нет	курсив	true	false	true	false	50	false	false	true
+Malgun Gothic	24	стандартный	двойная линия	нет	обычный	false	true	false	false	0	false	false	true
+Bookman Old Style	48	стандартный	нет	нет	обычный	false	false	true	false	50	false	true	false
+Calibri	10.5	цвет из политры	жирная линия	стандартный	полужирный курсив	false	true	true	false	50	false	true	true
+Cambria	11	цвет из политры	одинарная линия	стандартный	курсив	false	true	true	false	100	false	true	true
+Lucida Sans Unicode	48	цвет из политры	одинарная линия	цвет из политры	полужирный	true	false	true	false	50	false	true	false
+TW Cen MT	9	стандартный	двойная линия	цвет из политры	обычный	false	true	true	false	50	false	false	false
+SimSun	12	цвет из политры	нет	нет	полужирный курсив	false	false	false	false	0	true	false	true
+TH SarabunPSK	10	стандартный	одинарная линия	нет	обычный	true	false	true	false	100	true	false	false
+Bookman Old Style	40	стандартный	жирная пунктирная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	true
+Gill Sans MT	11	стандартный	жирная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	true
+Georgia	24	стандартный	жирная линия	нет	обычный	false	false	false	false	0	false	false	false
+MS Gothic	14	стандартный	одинарная линия	нет	обычный	false	false	false	false	0	false	true	true
+MS PGothic	32	стандартный	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	50	true	false	true
+Calibri Light	48	стандартный	жирная линия	стандартный	обычный	false	true	true	false	100	true	false	true
+Century Gothic	20	стандартный	одинарная линия	стандартный	курсив	true	false	true	false	50	true	false	true
+Segoe UI Light	24	стандартный	пунктирная линия	цвет из политры	полужирный курсив	true	false	false	false	0	true	false	false
+Calibri Light	72	цвет из политры	нет	нет	курсив	false	true	true	false	50	false	false	true
+Gautami	96	цвет из политры	двойная линия	стандартный	полужирный	false	true	true	false	50	false	true	true
+Candara	9	стандартный	жирная пунктирная линия	стандартный	полужирный	true	false	false	false	0	true	false	false
+Arial	32	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	true	false	100	true	false	false
+Bookman Old Style	80	стандартный	двойная линия	стандартный	обычный	true	false	true	false	50	false	true	true
+Garamond	20	стандартный	одинарная линия	цвет из политры	полужирный курсив	false	false	false	false	0	true	false	true
+MS PGothic	8	стандартный	жирная линия	нет	курсив	false	true	false	false	0	false	false	false
+Candara	66	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	true	false	100	false	false	true
+Garamond	9	стандартный	жирная линия	нет	обычный	false	false	true	false	50	false	false	false
+Sylfaen	18	цвет из политры	пунктирная линия	цвет из политры	обычный	true	false	true	false	100	false	true	true
+Calibri	40	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	false	true
+Corbel	11	цвет из политры	двойная линия	стандартный	полужирный курсив	false	false	true	false	100	true	false	true
+Times	32	стандартный	двойная линия	нет	курсив	true	false	false	false	0	false	true	false
+Gill Sans MT	24	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	false
+Calibri	10	цвет из политры	жирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	true
+Tahoma	24	цвет из политры	пунктирная линия	стандартный	курсив	true	false	true	false	50	false	false	true
+Times	96	стандартный	одинарная линия	стандартный	обычный	false	false	false	false	0	false	true	true
+Century Schoolbook	20	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	true	false	false	0	true	false	false
+Courier New	12	стандартный	двойная линия	нет	полужирный курсив	false	false	true	false	100	false	true	false
+SimSun	80	цвет из политры	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+Segoe UI	54	цвет из политры	одинарная линия	стандартный	курсив	false	true	true	false	50	true	false	true
+Franklin Gothic Book	9	стандартный	одинарная линия	цвет из политры	полужирный курсив	true	false	true	false	100	true	false	false
+Comic Sans MS	11	цвет из политры	пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	false
+Times	18	стандартный	жирная пунктирная линия	стандартный	курсив	false	true	true	false	50	false	true	false
+SimSun-ExtB	8	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	true	true	false	50	false	false	true
+Trebuchet MS	36	цвет из политры	жирная пунктирная линия	стандартный	обычный	false	true	true	false	50	false	true	false
+Sylfaen	60	стандартный	нет	нет	обычный	false	true	false	false	0	false	true	true
+Corbel	14	стандартный	двойная линия	нет	обычный	true	false	true	false	100	false	true	false
+Verdana	9	цвет из политры	жирная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	true
+Century	48	стандартный	одинарная линия	стандартный	полужирный	false	false	true	false	100	false	true	true
+Sylfaen	9	цвет из политры	жирная линия	нет	обычный	false	true	true	false	100	false	true	false
+MS Gothic	36	цвет из политры	жирная линия	цвет из политры	курсив	false	false	true	false	50	false	false	false
+Lucida Sans Unicode	40	стандартный	пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	true	true
+MS PGothic	36	стандартный	нет	нет	курсив	true	false	true	false	50	false	false	false
+Franklin Gothic Book	72	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	false	false	false	0	false	false	false
+Franklin Gothic Book	10.5	стандартный	нет	нет	полужирный курсив	false	true	false	false	0	false	true	false
+Lucida Sans	10	стандартный	пунктирная линия	цвет из политры	курсив	false	false	false	false	0	false	false	false
+Courier New	18	цвет из политры	жирная пунктирная линия	нет	полужирный	false	false	true	false	100	false	false	true
+Constantia	16	стандартный	одинарная линия	цвет из политры	курсив	false	true	true	false	50	false	true	true
+MPingLiU-ExtB	20	цвет из политры	одинарная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Franklin Gothic Book	11	стандартный	жирная линия	нет	полужирный	false	false	false	false	0	false	true	false
+Sylfaen	88	стандартный	жирная линия	стандартный	курсив	false	false	true	false	50	true	false	true
+Franklin Gothic Book	44	стандартный	жирная пунктирная линия	стандартный	обычный	true	false	true	false	50	false	true	false
+TH SarabunPSK	12	стандартный	двойная линия	нет	полужирный	false	false	false	false	0	false	true	false
+Gautami	11	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	false	false	0	true	false	false
+Century Schoolbook	40	стандартный	жирная пунктирная линия	стандартный	полужирный	true	false	false	false	0	false	false	false
+Gautami	48	цвет из политры	одинарная линия	стандартный	обычный	true	false	true	false	50	false	true	false
+Rockwell	16	цвет из политры	одинарная линия	нет	обычный	false	false	true	false	100	false	true	false
+Century	60	стандартный	двойная линия	цвет из политры	обычный	false	false	true	false	100	false	false	false
+TW Cen MT	16	цвет из политры	жирная линия	нет	полужирный	false	true	true	false	100	true	false	false
+Garamond	36	цвет из политры	одинарная линия	нет	курсив	false	true	true	false	50	false	false	true
+MPingLiU-ExtB	60	цвет из политры	жирная пунктирная линия	стандартный	курсив	false	true	false	false	0	false	true	true
+Lucida Sans	16	стандартный	пунктирная линия	нет	обычный	false	false	false	false	0	false	true	true
+Lucida Sans Unicode	20	цвет из политры	жирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Bookman Old Style	11	стандартный	жирная линия	стандартный	обычный	false	true	true	false	100	false	true	false
+SimSun	36	цвет из политры	одинарная линия	нет	полужирный	false	false	true	false	50	false	true	false
+Century Gothic	60	цвет из политры	нет	нет	полужирный	false	false	false	false	0	true	false	false
+Sylfaen	66	цвет из политры	двойная линия	стандартный	обычный	false	true	false	false	0	false	false	true
+Times	88	стандартный	пунктирная линия	нет	обычный	true	false	true	false	100	false	true	true
+Microsoft JhengHei	54	цвет из политры	жирная линия	нет	курсив	false	false	false	false	0	true	false	true
+Tahoma	12	цвет из политры	двойная линия	нет	полужирный курсив	true	false	true	false	100	false	true	false
+Candara	48	цвет из политры	жирная линия	стандартный	курсив	false	false	true	false	50	false	false	true
+Century Gothic	96	стандартный	жирная линия	стандартный	курсив	false	true	true	false	50	true	false	true
+Microsoft YaHei	14	стандартный	одинарная линия	нет	обычный	true	false	true	false	50	false	true	true
+TH SarabunPSK	16	стандартный	жирная пунктирная линия	нет	полужирный курсив	false	false	true	false	50	false	true	true
+Microsoft YaHei	11	цвет из политры	жирная пунктирная линия	цвет из политры	полужирный курсив	false	false	false	false	0	false	false	true
+Candara	16	цвет из политры	пунктирная линия	стандартный	полужирный	false	true	true	false	50	true	false	true
+Times	54	цвет из политры	двойная линия	стандартный	обычный	false	true	false	false	0	false	true	true
+Comic Sans MS	18	стандартный	пунктирная линия	цвет из политры	обычный	false	false	true	false	100	true	false	false
+Century Gothic	8	цвет из политры	жирная линия	нет	обычный	false	false	true	false	100	false	false	false
+SimSun-ExtB	44	цвет из политры	пунктирная линия	стандартный	полужирный курсив	true	false	true	false	50	false	true	true
+MPingLiU-ExtB	80	стандартный	пунктирная линия	стандартный	курсив	true	false	true	false	100	false	true	false
+Sylfaen	28	стандартный	двойная линия	нет	полужирный	true	false	false	false	0	false	false	true
+Verdana	88	цвет из политры	жирная линия	стандартный	курсив	false	true	true	false	100	false	true	false
+Times	80	цвет из политры	двойная линия	цвет из политры	обычный	false	true	false	false	0	true	false	true
+Book Antiqua	18	стандартный	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	true	false	false
+SimSun	40	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	true	true	false	100	false	false	true
+Malgun Gothic	16	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Century Schoolbook	96	цвет из политры	пунктирная линия	цвет из политры	полужирный	true	false	false	false	0	false	true	false
+Microsoft YaHei	44	стандартный	пунктирная линия	цвет из политры	обычный	false	true	true	false	100	false	true	true
+Cambria	88	стандартный	пунктирная линия	стандартный	полужирный курсив	false	true	false	false	0	false	true	false
+Courier New	20	стандартный	жирная линия	цвет из политры	курсив	false	true	true	false	50	false	true	true
+Lucida Sans Unicode	8	стандартный	двойная линия	стандартный	обычный	false	true	true	false	100	true	false	false
+MS Gothic	54	стандартный	нет	нет	полужирный	false	true	true	false	100	false	true	false
+Microsoft YaHei	10	цвет из политры	жирная линия	нет	обычный	false	true	true	false	50	true	false	true
+MS PGothic	11	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	false	false	0	true	false	true
+Microsoft YaHei	66	цвет из политры	одинарная линия	цвет из политры	полужирный	false	false	true	false	50	false	true	true
+MPingLiU-ExtB	18	стандартный	одинарная линия	нет	полужирный курсив	false	false	false	false	0	true	false	true
+MPingLiU-ExtB	66	стандартный	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	true
+Malgun Gothic	20	цвет из политры	жирная линия	стандартный	полужирный	false	false	true	false	100	true	false	true
+Rockwell	60	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	true	false	100	false	false	false
+Comic Sans MS	40	стандартный	двойная линия	стандартный	обычный	true	false	true	false	100	false	true	true
+MS Gothic	72	стандартный	одинарная линия	стандартный	полужирный	false	true	true	false	100	true	false	true
+Consolas	66	цвет из политры	жирная пунктирная линия	стандартный	полужирный	false	true	true	false	100	false	true	false
+Century Schoolbook	28	цвет из политры	жирная пунктирная линия	стандартный	полужирный курсив	false	false	false	false	0	false	true	true
+TH SarabunPSK	80	стандартный	жирная пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	false	true	false
+Georgia	40	цвет из политры	жирная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	true
+Georgia	10.5	стандартный	пунктирная линия	стандартный	полужирный	true	false	true	false	100	true	false	false
+SimSun	48	стандартный	нет	нет	курсив	false	true	true	false	50	false	false	false
+Verdana	80	стандартный	одинарная линия	нет	полужирный курсив	true	false	true	false	100	false	false	false
+Century	24	стандартный	жирная линия	стандартный	полужирный	false	false	false	false	0	false	true	false
+MS Gothic	18	цвет из политры	двойная линия	стандартный	полужирный курсив	false	true	true	false	100	false	false	false
+Tahoma	36	стандартный	одинарная линия	нет	курсив	false	true	true	false	50	false	false	false
+Century Schoolbook	8	стандартный	одинарная линия	нет	обычный	false	true	true	false	100	true	false	true
+Gill Sans MT	10	стандартный	нет	нет	обычный	false	true	false	false	0	true	false	false
+Constantia	88	стандартный	жирная пунктирная линия	нет	обычный	false	true	false	false	0	false	true	false
+Sylfaen	12	стандартный	пунктирная линия	цвет из политры	курсив	false	true	false	false	0	false	true	false
+Rockwell	12	цвет из политры	жирная пунктирная линия	цвет из политры	обычный	true	false	false	false	0	false	true	false
+Courier New	14	цвет из политры	пунктирная линия	цвет из политры	курсив	true	false	true	false	50	false	true	true
+Arial Black	8	цвет из политры	жирная линия	нет	обычный	false	true	false	false	0	true	false	true
+Calibri Light	16	цвет из политры	одинарная линия	нет	полужирный	true	false	false	false	0	false	false	false
+Century Gothic	18	цвет из политры	пунктирная линия	цвет из политры	обычный	false	true	true	false	100	false	false	true
+MS PGothic	24	стандартный	одинарная линия	стандартный	обычный	false	false	false	false	0	true	false	true
+MPingLiU-ExtB	48	стандартный	жирная линия	нет	полужирный курсив	false	true	true	false	100	false	true	true
+Calibri Light	8	цвет из политры	одинарная линия	стандартный	курсив	true	false	true	false	100	false	false	false
+MPingLiU-ExtB	54	цвет из политры	жирная линия	цвет из политры	полужирный	true	false	false	false	0	false	true	false
+Microsoft JhengHei	60	цвет из политры	нет	нет	полужирный	true	false	false	false	0	false	true	false
+Sylfaen	10.5	цвет из политры	двойная линия	стандартный	полужирный	false	true	true	false	100	true	false	false
+Georgia	8	стандартный	жирная пунктирная линия	нет	обычный	false	true	true	false	50	false	true	false
+MPingLiU-ExtB	10	стандартный	пунктирная линия	нет	обычный	false	true	false	false	0	false	false	true
+Microsoft JhengHei	28	цвет из политры	одинарная линия	цвет из политры	полужирный	true	false	false	false	0	false	true	false
+Rockwell	9	стандартный	пунктирная линия	нет	обычный	false	true	false	false	0	false	true	false
+Times	20	стандартный	пунктирная линия	цвет из политры	полужирный	true	false	true	false	50	true	false	true
+Courier New	10	цвет из политры	двойная линия	стандартный	обычный	false	true	true	false	50	false	false	true
+Arial Black	24	стандартный	пунктирная линия	стандартный	обычный	true	false	false	false	0	false	false	false
+Arial	80	стандартный	нет	нет	полужирный курсив	false	false	true	false	50	false	true	true
+Corbel	28	цвет из политры	пунктирная линия	нет	полужирный	false	true	false	false	0	false	false	true
+Arial	10.5	цвет из политры	жирная пунктирная линия	нет	полужирный	false	false	true	false	50	false	true	true
+Sylfaen	54	стандартный	жирная пунктирная линия	стандартный	полужирный	false	true	false	false	0	true	false	false
+Book Antiqua	14	стандартный	жирная линия	нет	курсив	false	true	true	false	100	false	false	false
+Arial Black	80	цвет из политры	двойная линия	нет	полужирный	false	false	true	false	100	true	false	false
+SimSun	10.5	стандартный	жирная линия	цвет из политры	курсив	false	false	true	false	50	false	true	true
+Book Antiqua	10	стандартный	жирная линия	цвет из политры	полужирный	true	false	true	false	100	false	false	true
+Candara	28	стандартный	пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	false
+Lucida Sans Unicode	66	стандартный	нет	нет	обычный	true	false	true	false	50	false	true	true
+Arial	28	цвет из политры	пунктирная линия	нет	обычный	false	true	false	false	0	false	true	true
+Sylfaen	20	цвет из политры	пунктирная линия	цвет из политры	курсив	true	false	true	false	100	false	true	false
+Tahoma	20	цвет из политры	жирная пунктирная линия	нет	полужирный	false	true	true	false	100	false	true	false
+TW Cen MT	60	стандартный	одинарная линия	нет	полужирный курсив	false	false	false	false	0	false	false	false
+TW Cen MT	24	стандартный	пунктирная линия	нет	обычный	false	false	true	false	100	false	false	false
+Segoe UI	20	стандартный	одинарная линия	нет	обычный	false	true	true	false	100	false	true	false
+Garamond	28	цвет из политры	пунктирная линия	стандартный	полужирный курсив	false	false	true	false	100	false	true	false
+Calibri Light	80	стандартный	пунктирная линия	цвет из политры	полужирный курсив	true	false	true	false	50	false	true	true
+Bookman Old Style	10.5	цвет из политры	одинарная линия	цвет из политры	полужирный	false	false	true	false	100	true	false	false
+Century Gothic	36	стандартный	пунктирная линия	стандартный	курсив	false	true	true	false	100	true	false	true
+SimSun	18	цвет из политры	жирная пунктирная линия	нет	курсив	false	true	true	false	100	false	true	false
+Century Gothic	16	цвет из политры	жирная линия	стандартный	полужирный курсив	true	false	true	false	100	false	true	false
+Malgun Gothic	48	цвет из политры	одинарная линия	нет	полужирный	true	false	true	false	100	false	false	false
+Century Gothic	54	цвет из политры	жирная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	true
+SimSun	60	стандартный	жирная линия	стандартный	курсив	false	false	true	false	100	true	false	true
+Segoe UI Light	80	цвет из политры	жирная пунктирная линия	цвет из политры	курсив	false	false	true	false	100	false	true	true
+Franklin Gothic Medium	96	стандартный	жирная пунктирная линия	цвет из политры	полужирный	false	true	true	false	100	false	true	true
+Candara	12	стандартный	жирная пунктирная линия	стандартный	курсив	false	true	false	false	0	false	true	false
+MS PGothic	48	цвет из политры	жирная линия	нет	курсив	true	false	true	false	100	true	false	true
+Times New Roman	20	цвет из политры	одинарная линия	нет	полужирный курсив	false	true	true	false	50	false	true	false
+Comic Sans MS	60	стандартный	двойная линия	цвет из политры	полужирный	true	false	true	false	50	false	true	true
+Garamond	72	стандартный	двойная линия	нет	полужирный	false	true	true	false	50	true	false	true
+Candara	88	цвет из политры	двойная линия	нет	полужирный курсив	true	false	true	false	50	false	true	false
+Garamond	14	цвет из политры	жирная линия	стандартный	полужирный	false	true	true	false	50	true	false	false
+Arial Black	12	стандартный	двойная линия	цвет из политры	полужирный курсив	false	true	true	false	100	false	true	false
+Garamond	8	цвет из политры	жирная линия	нет	полужирный	false	true	true	false	100	true	false	false
+Segoe UI Light	10.5	цвет из политры	двойная линия	цвет из политры	полужирный курсив	false	false	true	false	100	false	true	false
+Garamond	12	цвет из политры	жирная линия	стандартный	обычный	true	false	false	false	0	false	true	true
+Cambria	9	цвет из политры	одинарная линия	стандартный	полужирный	false	true	false	false	0	true	false	true
+Book Antiqua	10.5	цвет из политры	двойная линия	нет	полужирный курсив	true	false	true	false	100	false	false	false
+MS Gothic	96	цвет из политры	двойная линия	цвет из политры	курсив	false	true	true	false	50	false	true	false
+Lucida Sans	66	цвет из политры	двойная линия	цвет из политры	обычный	false	false	false	false	0	false	true	false
+Calibri	66	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	true	false	50	false	true	false
+Constantia	60	цвет из политры	двойная линия	цвет из политры	полужирный	true	false	true	false	100	true	false	false
+Century	9	цвет из политры	двойная линия	цвет из политры	обычный	false	false	true	false	100	false	false	true
+Segoe UI Light	18	цвет из политры	пунктирная линия	стандартный	полужирный	true	false	false	false	0	false	false	true
+Franklin Gothic Medium	12	цвет из политры	одинарная линия	цвет из политры	полужирный	false	true	false	false	0	false	true	true
+Calibri	72	цвет из политры	жирная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
