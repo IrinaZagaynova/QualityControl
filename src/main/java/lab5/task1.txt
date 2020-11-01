@@ -1,6 +1,6 @@
-Шрифты: Arial, Arial Black, Book Antiqua, Bookman Old Style, Calibri, Calibri Light, Cambria, Candara, Century, Century Gothic, Century Schoolbook, Comic Sans MS, Consolas, Constantia, Corbel, Courier New, Franklin Gothic Book, Franklin Gothic Medium, Garamond, Gautami, Georgia, Gill Sans MT, Lucida Sans, Lucida Sans Unicode, Malgun Gothic, Microsoft JhengHei, Microsoft YaHei, MS Gothic, MS PGothic, MPingLiU-ExtB, Rockwell, Segoe UI, Segoe UI Light, SimSun, SimSun-ExtB, Sylfaen, Tahoma, TH SarabunPSK, Times, Times New Roman, Trebuchet MS, TW Cen MT, Verdana
-Размер: 8, 9, 10, 10.5, 11, 12, 14, 16, 18, 20, 24, 28, 32, 36, 40, 44, 48, 54, 60, 66, 72, 80, 88, 96
-Цвет текста: стандартный, цвет из политры
+Шрифты: Arial, Calibri, Times, Times New Roman, Verdana
+Размер: 8, 10.5, 24, 54, 96
+Цвет текста: черный, красный, белый
 
 Подчеркивание: нет, одинарная линия, двойная линия, жирная линия, пунктирная линия, жирная пунктирная линия
 Цвет подчеркивания: нет, стандартный, цвет из политры

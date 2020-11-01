@@ -1,0 +1,40 @@
+ссылка на таблицу:
+https://docs.google.com/spreadsheets/d/1nGiAhGcIHm1QikKIbAN_krccRdjT34EOUSx4z0APf2s/edit?usp=sharing
+
+Шрифты	Размер	Цвет текста	Подчеркивание	Цвет подчеркивания	Начертание	Зачеркнутый	Двойное зачеркивание	Надстрочный	Подстрочный	Сдвиг	Малые прописные	Все прописные	Выровнять высоту знаков
+Times	24	красный	пунктирная линия	стандартный	полужирный курсив	false	true	true	false	100	true	false	false
+Calibri	54	белый	жирная линия	цвет из политры	полужирный курсив	true	false	true	false	100	false	true	false
+Verdana	96	красный	одинарная линия	нет	полужирный курсив	true	false	true	false	50	false	true	true
+Times New Roman	24	черный	жирная линия	стандартный	курсив	false	true	true	false	50	false	true	true
+Verdana	54	красный	пунктирная линия	нет	курсив	true	false	true	false	100	false	false	true
+Arial	96	красный	жирная пунктирная линия	нет	обычный	true	false	true	false	50	false	true	true
+Times	10.5	черный	жирная пунктирная линия	стандартный	полужирный курсив	true	false	false	false	0	false	true	true
+Times New Roman	8	черный	одинарная линия	цвет из политры	полужирный курсив	false	true	false	false	0	false	true	false
+Calibri	96	белый	нет	нет	курсив	false	false	false	false	0	false	true	true
+Times New Roman	24	черный	жирная пунктирная линия	нет	обычный	false	true	true	false	100	true	false	true
+Verdana	10.5	красный	жирная пунктирная линия	цвет из политры	курсив	false	false	true	false	50	false	true	true
+Times New Roman	96	красный	двойная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Times	10.5	красный	двойная линия	нет	обычный	true	false	true	false	100	false	true	true
+Calibri	10.5	черный	одинарная линия	цвет из политры	полужирный	false	true	true	false	50	true	false	true
+Times New Roman	96	черный	пунктирная линия	цвет из политры	полужирный	false	false	false	false	0	false	true	false
+Arial	8	черный	двойная линия	стандартный	полужирный курсив	false	true	false	false	0	true	false	true
+Arial	54	белый	жирная пунктирная линия	цвет из политры	обычный	true	false	true	false	50	true	false	false
+Times	54	красный	двойная линия	цвет из политры	полужирный	false	true	false	false	0	false	false	true
+Times	96	белый	одинарная линия	цвет из политры	обычный	true	false	true	false	100	true	false	false
+Calibri	24	красный	двойная линия	цвет из политры	обычный	false	true	false	false	0	false	false	true
+Arial	24	красный	нет	нет	обычный	true	false	true	false	100	true	false	false
+Arial	54	черный	жирная линия	цвет из политры	полужирный	true	false	true	false	50	true	false	true
+Verdana	8	черный	нет	нет	полужирный	true	false	true	false	100	false	false	false
+Times New Roman	10.5	белый	жирная линия	нет	обычный	false	true	true	false	100	false	true	false
+Times New Roman	24	черный	одинарная линия	цвет из политры	курсив	true	false	true	false	100	true	false	true
+Verdana	24	белый	двойная линия	нет	полужирный	true	false	true	false	50	true	false	false
+Arial	54	белый	одинарная линия	стандартный	полужирный	false	true	false	false	0	false	true	false
+Calibri	8	белый	жирная пунктирная линия	стандартный	полужирный	true	false	true	false	50	false	true	false
+Times	8	белый	жирная линия	цвет из политры	курсив	false	true	true	false	100	false	true	false
+Arial	10.5	красный	пунктирная линия	нет	полужирный курсив	false	false	true	false	50	true	false	false
+Calibri	8	красный	пунктирная линия	нет	обычный	false	false	true	false	50	false	true	true
+Verdana	96	красный	жирная линия	стандартный	обычный	false	true	false	false	0	true	false	true
+Arial	24	белый	пунктирная линия	нет	курсив	true	false	false	false	0	false	true	true
+Times New Roman	54	черный	нет	нет	курсив	false	true	true	false	100	false	true	false
+Times	10.5	белый	нет	нет	полужирный курсив	false	true	true	false	50	true	false	false
+
