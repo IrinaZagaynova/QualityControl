@@ -1,0 +1,52 @@
+{
+    "port": 4545,
+    "protocol": "http",
+    "stubs" : [{
+        "predicates": [{
+            "and": [{
+                "equals": {
+                    "path": "/euro-rate",
+                    "method": "GET"
+                }
+            }
+            ]
+        }],
+        "responses": [
+            { "is": {"body":{"euro-rate": "91,02"}}}
+        ]
+    },
+        {
+            "predicates": [{
+                "and": [{
+                    "equals": {
+                        "path": "/us-dollar-rate",
+                        "method": "GET"
+                    }
+                }
+                ]
+            }],
+            "responses": [
+                { "is": {"body":{"us-dollar-rate": "76,08"}}}
+            ]
+        },
+        {
+            "predicates": [{
+                "and": [{
+                    "equals": {
+                        "path": "/pound-rate",
+                        "method": "GET"
+                    }
+                }
+                ]
+            }],
+            "responses": [
+                { "is": {"body":{"pound-rate": "101,23"}}}
+            ]
+        },
+        {
+            "responses": [
+                {"is": {"statusCode": 400}}
+            ]
+        }
+    ]
+}
