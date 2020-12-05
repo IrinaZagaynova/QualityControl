@@ -6,64 +6,16 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
 public class Imposter {
     static CloseableHttpClient httpClient = HttpClients.createDefault();
     static HttpPost request = new HttpPost("http://localhost:2525/imposters");
 
     public static void main(String[] args) throws IOException {
-        StringEntity params = new StringEntity("{\n" +
-                "    \"port\": 4545,\n" +
-                "    \"protocol\": \"http\",\n" +
-                "    \"stubs\" : [{\n" +
-                "        \"predicates\": [{\n" +
-                "            \"and\": [{\n" +
-                "                \"equals\": {\n" +
-                "                    \"path\": \"/euro-rate\",\n" +
-                "                    \"method\": \"GET\"\n" +
-                "                }\n" +
-                "            }\n" +
-                "            ]\n" +
-                "        }],\n" +
-                "        \"responses\": [\n" +
-                "            { \"is\": {\"body\":{\"euro-rate\": \"91,02\"}}}\n" +
-                "        ]\n" +
-                "    },\n" +
-                "        {\n" +
-                "            \"predicates\": [{\n" +
-                "                \"and\": [{\n" +
-                "                    \"equals\": {\n" +
-                "                        \"path\": \"/us-dollar-rate\",\n" +
-                "                        \"method\": \"GET\"\n" +
-                "                    }\n" +
-                "                }\n" +
-                "                ]\n" +
-                "            }],\n" +
-                "            \"responses\": [\n" +
-                "                { \"is\": {\"body\":{\"us-dollar-rate\": \"76,08\"}}}\n" +
-                "            ]\n" +
-                "        },\n" +
-                "        {\n" +
-                "            \"predicates\": [{\n" +
-                "                \"and\": [{\n" +
-                "                    \"equals\": {\n" +
-                "                        \"path\": \"/pound-rate\",\n" +
-                "                        \"method\": \"GET\"\n" +
-                "                    }\n" +
-                "                }\n" +
-                "                ]\n" +
-                "            }],\n" +
-                "            \"responses\": [\n" +
-                "                { \"is\": {\"body\":{\"pound-rate\": \"101,23\"}}}\n" +
-                "            ]\n" +
-                "        },\n" +
-                "        {\n" +
-                "            \"responses\": [\n" +
-                "                {\"is\": {\"statusCode\": 400}}\n" +
-                "            ]\n" +
-                "        }\n" +
-                "    ]\n" +
-                "}\n");
+        String data = new String(Files.readAllBytes(Paths.get("src/main/java/lab8/imposter.json")));
+        StringEntity params = new StringEntity(data);
 
         request.addHeader("content-type", "application/json");
         request.addHeader("Accept","application/json");
