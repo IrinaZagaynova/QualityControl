@@ -1,0 +1,11 @@
+{
+  "category_id": "1",
+  "title": "title",
+  "content": "content",
+  "price": "10",
+  "old_price": "5",
+  "status": "1",
+  "keywords": "keywords",
+  "description": "some description",
+  "hit": "1"
+}
